@@ -381,7 +381,7 @@ http://[2409:8087:5c00:10:5::136]/cdnrrs.gx.chinamobile.com/PLTV/3/224/322122582
 http://[2409:8087:5c00:10:5::134]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225795/index.m3u8
 #EXTINF:-1 group-title="卫视",西藏藏语卫视 576
 http://[2409:8087:5c00:10:5::143]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225828/index.m3u8
-#EXTINF:-1 group-title="卫视",上海哈哈炫动 4M576
+#EXTINF:-1 group-title="卡通",上海哈哈炫动 4M576
 http://[2409:8087:5c00:10:5::91]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225711/index.m3u8
 #EXTINF:-1 group-title="卡通",北京卡酷少儿 4M576
 http://[2409:8087:5c00:10:5::82]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225730/index.m3u8
@@ -467,7 +467,7 @@ http://[2409:8087:5c0b:10:2::77]:6610/000000001000/1000000001000008170/1.m3u8?ch
 http://[2409:8087:5c0b:10:2::77]:6610/000000001000/1000000001000021349/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021349&livemode=1&stbId=0
 #EXTINF:-1 group-title="央视",CCTV15
 http://[2409:8087:5c0b:10:2::77]:6610/000000001000/1000000002000008163/1.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=0
-#EXTINF:-1 group-title="卫视",CETV1
+#EXTINF:-1 group-title="CETV",CETV1
 http://[2409:8087:5c0b:10:2::77]:6610/000000001000/1000000002000027253/1.m3u8?channel-id=ystenlive&Contentid=1000000002000027253&livemode=1&stbId=0
 #EXTINF:-1 group-title="CGTN",CGTN
 http://[2409:8087:5c0b:10:2::77]:6610/000000001000/8428799834696888424/1.m3u8?channel-id=ystenlive&Contentid=8428799834696888424&livemode=1&stbId=0
@@ -521,7 +521,7 @@ http://[2409:8087:5c0b:10:2::77]:6610/000000001000/1000000001000028357/1.m3u8?ch
 http://[2409:8087:5c0b:10:2::77]:6610/000000001000/1000000002000019837/1.m3u8?channel-id=ystenlive&Contentid=1000000002000019837&livemode=1&stbId=0
 #EXTINF:-1 group-title="卫视",贵州卫视
 http://[2409:8087:5c0b:10:2::77]:6610/000000001000/1000000002000003169/1.m3u8?channel-id=ystenlive&Contentid=1000000002000003169&livemode=1&stbId=0
-#EXTINF:-1 group-title="卫视",哈哈炫动
+#EXTINF:-1 group-title="卡通",哈哈炫动
 http://[2409:8087:5c0b:10:2::77]:6610/000000001000/1000000002000000172/1.m3u8?channel-id=ystenlive&Contentid=1000000002000000172&livemode=1&stbId=0
 #EXTINF:-1 group-title="卫视",海南卫视
 http://[2409:8087:5c0b:10:2::77]:6610/000000001000/7899627377857656087/1.m3u8?channel-id=ystenlive&Contentid=7899627377857656087&livemode=1&stbId=0
@@ -557,7 +557,7 @@ http://[2409:8087:5c0b:10:2::77]:6610/000000001000/1000000001000013731/1.m3u8?ch
 http://[2409:8087:5c0b:10:2::77]:6610/000000001000/1000000002000011724/1.m3u8?channel-id=ystenlive&Contentid=1000000002000011724&livemode=1&stbId=0
 #EXTINF:-1 group-title="卫视",军事评论
 http://[2409:8087:5c0b:10:2::77]:6610/000000001000/5822616274253344775/1.m3u8?channel-id=ystenlive&Contentid=5822616274253344775&livemode=1&stbId=0
-#EXTINF:-1 group-title="卡通",卡酷少​​儿
+#EXTINF:-1 group-title="卡通",卡酷少儿
 http://[2409:8087:5c0b:10:2::77]:6610/000000001000/7589856436881630561/1.m3u8?channel-id=ystenlive&Contentid=7589856436881630561&livemode=1&stbId=0
 #EXTINF:-1 group-title="卫视",辽宁卫视
 http://[2409:8087:5c0b:10:2::77]:6610/000000001000/1000000002000024033/1.m3u8?channel-id=ystenlive&Contentid=1000000002000024033&livemode=1&stbId=0
