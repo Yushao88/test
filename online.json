@@ -1,7 +1,7 @@
 {
   "lives": [
     {
-      "name": "广西V6",
+      "name": "骞胯タV6",
       "type": 0,
       "url": "https://raw.githubusercontent.com/wcb1969/iptv/main/%E5%B9%BF%E8%A5%BFV6.txt",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
@@ -9,7 +9,7 @@
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
     },
     {
-      "name": " 肥羊百视通源",
+      "name": " 鑲ョ緤鐧捐閫氭簮",
       "type": 0,
       "url": "https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/bestv.m3u",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
