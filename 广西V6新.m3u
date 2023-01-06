@@ -181,6 +181,8 @@ http://[2409:8087:5c00:10:5::84]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225801
 http://[2409:8087:5c00:10:5::84]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225863/index.m3u8
 #EXTINF:-1 group-title="咪咕",咪咕音乐
 http://[2409:8087:5c00:10:5::84]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225962/index.m3u8
+#EXTINF:-1 group-title="咪咕",BBC安迪的史前冒险
+http://[2409:8087:5c00:10:5::84]/cdnrrs.gx.chinamobile.com/PLTV/3/224/747812934/index.m3u8
 #EXTINF:-1 group-title="4K",咪咕4K 31M2160HDR
 http://[2409:8087:5c00:10:5::99]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225712/index.m3u8
 #EXTINF:-1 group-title="4K",纯享4K 16M2160
