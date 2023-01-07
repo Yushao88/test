@@ -138,7 +138,7 @@ http://[2409:8087:5c00:10:5::122]/cdnrrs.gx.chinamobile.com/PLTV/3/224/322122576
 #EXTINF:-1 group-title="NewTV",NewTV潮妈辣婆
 http://[2409:8087:5c00:10:5::91]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225709/index.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV炫舞未来
-http://[2409:8087:3869:8021:1001::e5]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225728/index.m3u8
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225707/index.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV爱情喜剧
 http://[2409:8087:5c00:10:5::76]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225698/index.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV精品体育
