@@ -74,7 +74,7 @@ http://[2409:8087:5c00:10:5::151]/cdnrrs.gx.chinamobile.com/PLTV/3/224/322122595
 #EXTINF:-1 group-title="央视",CCTV17
 http://[2409:8087:5c00:10:5::120]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225766/index.m3u8
 #EXTINF:-1 group-title="卫视",东南卫视
-http://[2409:8087:5c00:10:5::96]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225696/index.m3u8
+http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000502/index.m3u8?IAS
 #EXTINF:-1 group-title="卫视",东方卫视
 http://[2409:8087:5c00:10:5::118]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225718/index.m3u8
 #EXTINF:-1 group-title="卫视",北京卫视
