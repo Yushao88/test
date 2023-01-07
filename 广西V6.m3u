@@ -149,66 +149,134 @@ http://[2409:8087:5c00:10:5::121]/cdnrrs.gx.chinamobile.com/PLTV/3/224/322122573
 http://[2409:8087:5c00:10:5::96]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225681/index.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV金牌综艺
 http://[2409:8087:5c00:10:5::99]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225755/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV东北热剧 4M1080
-http://[2409:8087:3800:20:1000::808]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226202/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV中国功夫 4M1080
-http://[2409:8087:3800:20:1000::808]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV军事评论 4M1080
-http://[2409:8087:3800:20:1000::808]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225757/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV军旅剧场 4M1080
-http://[2409:8087:3800:20:1000::808]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV农业致富 4M1080
-http://[2409:8087:3800:20:1000::808]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV动作电影 4M1080
-http://[2409:8087:3800:20:1000::808]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV古装剧场 4M1080
-http://[2409:8087:3800:20:1000::808]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225678/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV家庭剧场 4M1080
-http://[2409:8087:3800:20:1000::808]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225713/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV怡伴健康 4M1080
-http://[2409:8087:3800:20:1000::808]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV惊悚悬疑 4M1080
-http://[2409:8087:3800:20:1000::808]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV明星大片 4M1080
-http://[2409:8087:3800:20:1000::808]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV欢乐剧场 4M1080
-http://[2409:8087:3800:20:1000::808]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226210/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV武搏世界 4M1080
-http://[2409:8087:3800:20:1000::808]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV海外剧场 4M1080
-http://[2409:8087:3800:20:1000::808]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225712/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV潮妈辣婆 4M1080
-http://[2409:8087:3800:20:1000::808]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225708/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV炫舞未来 4M1080
-http://[2409:8087:3800:20:1000::808]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225707/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV爱情喜剧 4M1080
-http://[2409:8087:3800:20:1000::808]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225748/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV精品体育 4M1080
-http://[2409:8087:3800:20:1000::808]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225709/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV精品大剧 4M1080
-http://[2409:8087:3800:20:1000::808]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV精品纪录 2.5M1080
-http://[2409:8087:3800:20:1000::808]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225710/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV超级电视剧
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225625/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV超级电视剧 4M1080
+http://[2409:8087:3800:20:1000::809]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV超级电视剧 4M1080
+http://[2409:8087:3800:20:1000::806]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV超级电视剧 4M1080
+http://[2409:8087:3800:20:1000::803]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV超级电视剧 4M1080
+http://[2409:8087:3800:20:1000::805]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV超级电视剧 4M1080
+http://[2409:8087:3800:20:1000::804]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV超级电视剧 4M1080
+http://[2409:8087:3800:20:1000::808]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV超级电视剧 4M1080
+http://[2409:8087:3800:20:1000::802]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV超级电影
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225623/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV超级电影 4M1080
+http://[2409:8087:3800:20:1000::809]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225623/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV超级电影 4M1080
+http://[2409:8087:3800:20:1000::808]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225623/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV超级电影 4M1080
+http://[2409:8087:3800:20:1000::806]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225623/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV超级体育
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225648/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV超级体育
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225622/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV超级体育 4M1080
+http://[2409:8087:3800:20:1000::809]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225622/index.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV超级体育 4M1080
 http://[2409:8087:3800:20:1000::808]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225622/index.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV超级体育 4M1080
-http://[2409:8087:3800:20:1000::808]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225648/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV超级体育 8M1080
-http://[2409:8087:3800:20:1000::808]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225767/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV超级电影 4M1080
-http://[2409:8087:3800:20:1000::808]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225623/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV超级电影 8M1080
-http://[2409:8087:3800:20:1000::808]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225766/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV超级电视剧 4M1080
-http://[2409:8087:3800:20:1000::808]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV超级电视剧 8M1080
-http://[2409:8087:3800:20:1000::808]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+http://[2409:8087:3800:20:1000::806]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225622/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV超级综艺
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225620/index.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV超级综艺 4M1080
-http://[2409:8087:3800:20:1000::808]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225620/index.m3u8
+http://[2409:8087:3800:20:1000::804]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225620/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV超级综艺 4M1080
+http://[2409:8087:3800:20:1000::805]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225620/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV超级综艺 4M1080
+http://[2409:8087:3800:20:1000::806]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225620/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV超级综艺 8M1080
+http://[2409:8087:3800:20:1000::806]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225768/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV超级综艺 8M1080
+http://[2409:8087:3800:20:1000::802]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225768/index.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV超级综艺 8M1080
 http://[2409:8087:3800:20:1000::808]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225768/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV超级综艺 8M1080
+http://[2409:8087:3800:20:1000::803]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225768/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV超级综艺 8M1080
+http://[2409:8087:3800:20:1000::809]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225768/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV潮妈辣婆
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225708/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV东北热剧
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226202/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV古装剧场
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225678/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV古装剧场 4M1080
+http://[2409:8087:3800:20:1000::806]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225678/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV欢乐剧场
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226210/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV家庭剧场
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225713/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV家庭剧场 4M1080
+http://[2409:8087:3800:20:1000::803]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225713/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV家庭剧场 4M1080
+http://[2409:8087:3800:20:1000::802]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225713/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV金牌综艺 4M1080
+http://[2409:8087:3800:20:1000::805]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225711/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV金牌综艺 4M1080
+http://[2409:8087:3800:20:1000::806]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225711/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV金牌综艺 4M1080
+http://[2409:8087:3800:20:1000::803]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225711/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV金牌综艺 4M1080
+http://[2409:8087:3800:20:1000::809]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225711/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV金牌综艺 4M1080
+http://[2409:8087:3800:20:1000::804]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225711/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV金牌综艺 4M1080
+http://[2409:8087:3800:20:1000::802]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225711/index.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV金牌综艺 4M1080
 http://[2409:8087:3800:20:1000::808]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225711/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV精品纪录 2.5M1080
+http://[2409:8087:3800:20:1000::805]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225710/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV精品纪录 2.5M1080
+http://[2409:8087:3800:20:1000::804]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225710/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV精品奇迹
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225710/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV精品体育
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225709/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV精品体育 4M1080
+http://[2409:8087:3800:20:1000::808]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225709/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV精品体育 4M1080
+http://[2409:8087:3800:20:1000::809]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225709/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV军旅剧场
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225669/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV军旅剧场 4M1080
+http://[2409:8087:3800:20:1000::805]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV军旅剧场 4M1080
+http://[2409:8087:3800:20:1000::804]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV军事评论 4M1080
+http://[2409:8087:3800:20:1000::803]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225757/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV军事评论 4M1080
+http://[2409:8087:3800:20:1000::802]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225757/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV明星大片
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225716/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV明星大片 4M1080
+http://[2409:8087:3800:20:1000::805]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV明星大片 4M1080
+http://[2409:8087:3800:20:1000::804]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV明星大片 4M1080
+http://[2409:8087:3800:20:1000::806]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV农业致富
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225670/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV农业致富 4M1080
+http://[2409:8087:3800:20:1000::804]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV农业致富 4M1080
+http://[2409:8087:3800:20:1000::805]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV武搏世界
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225656/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV炫舞未来
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225707/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV怡健康伴
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225666/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV中国功夫
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225660/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV综艺
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225711/index.m3u8
 #EXTINF:-1 group-title="黑莓",黑莓动画
 http://[2409:8087:5c00:10:5::92]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225710/index.m3u8
 #EXTINF:-1 group-title="黑莓",黑莓电影
