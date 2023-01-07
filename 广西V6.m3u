@@ -277,6 +277,48 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225711/index.m3
 http://[2409:8087:5c00:10:5::92]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225710/index.m3u8
 #EXTINF:-1 group-title="黑莓",黑莓电影
 http://[2409:8087:5c00:10:5::72]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225740/index.m3u8
+#EXTINF:-1 group-title="黑莓",黑莓电竞
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225653/index.m3u8
+#EXTINF:-1 group-title="黑莓",黑莓电竞
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225750/index.m3u8
+#EXTINF:-1 group-title="黑莓",黑莓电竞
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225749/index.m3u8
+#EXTINF:-1 group-title="黑莓",黑莓电影
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225764/index.m3u8
+#EXTINF:-1 group-title="黑莓",黑莓电影
+http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225764/index.m3u8
+#EXTINF:-1 group-title="黑莓",黑莓电影
+http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221225764/index.m3u8
+#EXTINF:-1 group-title="黑莓",黑莓电影
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225769/index.m3u8
+#EXTINF:-1 group-title="黑莓",黑莓电影
+http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221225718/index.m3u8
+#EXTINF:-1 group-title="黑莓",黑莓电影
+http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225718/index.m3u8
+#EXTINF:-1 group-title="黑莓",黑莓电影
+http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225769/index.m3u8
+#EXTINF:-1 group-title="黑莓",黑莓电影
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225718/index.m3u8
+#EXTINF:-1 group-title="黑莓",黑莓电影
+http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221225769/index.m3u8
+#EXTINF:-1 group-title="黑莓",黑莓电影 4M1080
+http://[2409:8087:3800:20:1000::802]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225769/index.m3u8
+#EXTINF:-1 group-title="黑莓",黑莓电影 4M1080
+http://[2409:8087:3800:20:1000::804]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225718/index.m3u8
+#EXTINF:-1 group-title="黑莓",黑莓电影 4M1080
+http://[2409:8087:3800:20:1000::805]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225718/index.m3u8
+#EXTINF:-1 group-title="黑莓",黑莓电影 4M1080
+http://[2409:8087:3800:20:1000::803]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225769/index.m3u8
+#EXTINF:-1 group-title="黑莓",黑莓动画
+http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221225672/index.m3u8
+#EXTINF:-1 group-title="黑莓",黑莓动画
+http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225672/index.m3u8
+#EXTINF:-1 group-title="黑莓",黑莓动画
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225672/index.m3u8
+#EXTINF:-1 group-title="黑莓",黑莓动画 4M1080
+http://[2409:8087:3800:20:1000::804]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
+#EXTINF:-1 group-title="黑莓",黑莓动画 4M1080
+http://[2409:8087:3800:20:1000::805]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
 #EXTINF:-1 group-title="赛事",哒啵赛事
 http://[2409:8087:5c00:10:5::88]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225760/index.m3u8
 #EXTINF:-1 group-title="广西地方台",来宾综合
