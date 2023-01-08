@@ -619,13 +619,60 @@ http://[2409:8087:5c00:10:5::80]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225887
 http://[2409:8087:5c00:10:5::80]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225890/index.m3u8
 #EXTINF:-1 group-title="广西地方台",河池新闻综合 3M576
 http://[2409:8087:5c00:10:5::80]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225844/index.m3u8
+#EXTINF:-1 group-title="广西地方台",灵川
+https://live.mudu.tv/watch/0ez7fg.m3u8
+#EXTINF:-1 group-title="广西地方台",宾阳
+https://live.mudu.tv/watch/wstk35.m3u8
+#EXTINF:-1 group-title="广西地方台",田东
+https://live.mudu.tv/watch/z3rfkn.m3u8
+#EXTINF:-1 group-title="广西地方台",来宾
+https://live.mudu.tv/watch/br1ja1.m3u8
+#EXTINF:-1 group-title="广西地方台",凌云
+https://live.mudu.tv/watch/114uxj.m3u8
+#EXTINF:-1 group-title="广西地方台",岑溪
+https://live.mudu.tv/watch/3gdcdh.m3u8
+#EXTINF:-1 group-title="广西地方台",靖西
+https://live.mudu.tv/watch/exbpr8.m3u8
+#EXTINF:-1 group-title="广西地方台",西林
+https://live.mudu.tv/watch/mtaq1f.m3u8
+#EXTINF:-1 group-title="广西地方台",田阳
+https://live.mudu.tv/watch/bzzaqn.m3u8
+#EXTINF:-1 group-title="广西地方台",崇左
+https://live.mudu.tv/watch/d44wty.m3u8
+#EXTINF:-1 group-title="广西地方台",北海科教
+https://live.mudu.tv/watch/get79z.m3u8
+#EXTINF:-1 group-title="广西地方台",北海综合
+https://live.mudu.tv/watch/xz1sz0.m3u8
+#EXTINF:-1 group-title="广西地方台",资源
+https://live.mudu.tv/watch/wn9bg3.m3u8
+#EXTINF:-1 group-title="广西地方台",凭祥
+https://live.mudu.tv/watch/5vnxvo.m3u8
+#EXTINF:-1 group-title="广西地方台",龙州
+https://live.mudu.tv/watch/0yr1qy.m3u8
+#EXTINF:-1 group-title="广西地方台",昭平
+https://live.mudu.tv/watch/oeg09a.m3u8
+#EXTINF:-1 group-title="广西地方台",巴马
+https://live.mudu.tv/watch/rxf387.m3u8
+#EXTINF:-1 group-title="广西地方台",乐业
+https://live.mudu.tv/watch/a6e5zx.m3u8
+#EXTINF:-1 group-title="广西地方台",融水
+https://live.mudu.tv/watch/jpdvbf.m3u8
+#EXTINF:-1 group-title="广西地方台",都安
+https://live.mudu.tv/watch/9n0av9.m3u8
+#EXTINF:-1 group-title="广西地方台",天等
+https://live.mudu.tv/watch/hdm7vh.m3u8
+#EXTINF:-1 group-title="广西地方台",那坡
+https://live.mudu.tv/watch/uevdfh.m3u8
+#EXTINF:-1 group-title="广西地方台",贺州新闻综合
+https://live.mudu.tv/watch/06dqmk.m3u8
+#EXTINF:-1 group-title="广西地方台",灌阳
+https://live.mudu.tv/watch/532z4u.m3u8
 #EXTINF:-1 group-title="蓝屏",蓝屏 3.5M576
 http://[2409:8087:5c00:10:5::146]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225929/index.m3u8
 #EXTINF:-1 group-title="蓝屏",蓝屏 3.5M576
 http://[2409:8087:5c00:10:5::150]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225932/index.m3u8
 #EXTINF:-1 group-title="蓝屏",蓝屏 3M576
 http://[2409:8087:5c00:10:5::146]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225873/index.m3u8
-#EXTM3U
 #EXTINF:-1 group-title="其他",翡翠台
 http://pull-l3-cny.douyincdn.com/live/1f41fa6570c0c2fe39fef0752f76de81.m3u8
 #EXTINF:-1 group-title="其他",华丽翡翠台
