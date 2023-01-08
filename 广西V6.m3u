@@ -345,8 +345,6 @@ http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225750/index.m3
 http://[2409:8087:5c00:10:5::80]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225903/index.m3u8
 #EXTINF:-1 group-title="广西地方台",百色综合
 http://[2409:8087:5c00:10:5::82]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225900/index.m3u8
-#EXTINF:-1 group-title="广西地方台",玉林新闻综合
-http://[2409:8087:5c00:10:5::80]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225835/index.m3u8
 #EXTINF:-1 group-title="广西地方台",百色综合
 http://[2409:8087:5c00:10:5::154]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225877/index.m3u8
 #EXTINF:-1 group-title="广西地方台",贺州综合
@@ -612,7 +610,7 @@ http://[2409:8087:5c00:10:5::97]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225883
 #EXTINF:-1 group-title="广西地方台",河池新闻综合 3.5M576
 http://[2409:8087:5c00:10:5::80]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225844/index.m3u8
 #EXTINF:-1 group-title="广西地方台",玉林新闻综合 8M1080
-hhttp://[2409:8087:5c00:10:5::80]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225838/index.m3u8
+http://[2409:8087:5c00:10:5::155]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225838/index.m3u8
 #EXTINF:-1 group-title="广西地方台",玉林公共 8M1080
 http://[2409:8087:5c00:10:5::80]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225835/index.m3u8
 #EXTINF:-1 group-title="广西地方台",柳州公共 3.5M576
