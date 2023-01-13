@@ -695,53 +695,53 @@ http://[2409:8087:5c00:10:5::146]/cdnrrs.gx.chinamobile.com/PLTV/3/224/322122592
 http://[2409:8087:5c00:10:5::150]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225932/index.m3u8
 #EXTINF:-1 group-title="蓝屏",蓝屏 3M576
 http://[2409:8087:5c00:10:5::146]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225873/index.m3u8
-#EXTINF:-1 group-title="其他",翡翠台
-http://pull-l3-cny.douyincdn.com/live/1f41fa6570c0c2fe39fef0752f76de81.m3u8
-#EXTINF:-1 group-title="其他",华丽翡翠台
-http://pull-l3-cny.douyincdn.com/live/8f0f5b53f8ad921929fc9ac8771cbd82.m3u8
-#EXTINF:-1 group-title="其他",明珠台
-http://pull-l3-cny.douyincdn.com/live/81c6196a626a87b4bc7a81d032b0bf7f.m3u8
-#EXTINF:-1 group-title="其他",无线财经
-http://pull-l3-cny.douyincdn.com/live/beb24d452126196227a4c183337d6bfd.m3u8
-#EXTINF:-1 group-title="其他",有线新闻台
-http://pull-l3-cny.douyincdn.com/live/3ce3ba86a40b1b2055eeda4f8cf6517e.m3u8
-#EXTINF:-1 group-title="其他",有线财经台
-http://pull-l3-cny.douyincdn.com/live/6cce73798021d977d916afacf1caba36.m3u8
-#EXTINF:-1 group-title="其他",有线直播台
-http://pull-l3-cny.douyincdn.com/live/1696778d64f00f3f9c0aefe3b2136ffe.m3u8
-#EXTINF:-1 group-title="其他",美亚电影台
-http://pull-l3-cny.douyincdn.com/live/b16e0049bdda5f54e62d3c9b694d81ff.m3u8
-#EXTINF:-1 group-title="其他",纬来戏剧台
-http://pull-l3-cny.douyincdn.com/live/cf93b19e055f2800058541033c0c4355.m3u8
-#EXTINF:-1 group-title="其他",纬来电影台
-http://pull-l3-cny.douyincdn.com/live/6de7ee8878da79aaf393c0f63081cb0c.m3u8
-#EXTINF:-1 group-title="其他",莲花电影台
-http://pull-l3-cny.douyincdn.com/live/f3caad21816e3bfe2210a692387ab040.m3u8
-#EXTINF:-1 group-title="其他",好莱坞电影
-http://pull-l3-cny.douyincdn.com/live/06027cd7cadf310982fe67221578515b.m3u8
-#EXTINF:-1 group-title="其他",龙祥电影台
-http://pull-l3-cny.douyincdn.com/live/c32278dece9f79334a2a878aaa730e95.m3u8
-#EXTINF:-1 group-title="其他",天映电影台
-http://pull-l3-cny.douyincdn.com/live/4480903e93e7bf6ddde637e903c423a0.m3u8
-#EXTINF:-1 group-title="其他",东森电影台
-http://pull-l3-cny.douyincdn.com/live/3d50d525417f450fdbc3fbbf5ac32960.m3u8
-#EXTINF:-1 group-title="其他",东森洋片台
-http://pull-l3-cny.douyincdn.com/live/ed503be0a61dc988e0a7d9e1f57a1885.m3u8
-#EXTINF:-1 group-title="其他",HBO HD
-http://pull-l3-cny.douyincdn.com/live/b2478a833f3e8b439b680048fcbf7786.m3u8
-#EXTINF:-1 group-title="其他",HBO家庭影院
-http://pull-l3-cny.douyincdn.com/live/1279e1fd458348b32fd60381b1017c09.m3u8
-#EXTINF:-1 group-title="其他",HBO原创电影
-http://pull-l3-cny.douyincdn.com/live/9bfb4b08fec367ed3850357a853250d5.m3u8
-#EXTINF:-1 group-title="其他",HBO强档影院
-http://pull-l3-cny.douyincdn.com/live/162f0111fdd134e929d72640e6c4ea56.m3u8
-#EXTINF:-1 group-title="其他",探索频道HD
-http://pull-l3-cny.douyincdn.com/live/34633761735b6c677356a7c551f89888.m3u8
-#EXTINF:-1 group-title="其他",KBS1 HD
-http://pull-l3-cny.douyincdn.com/live/da1f0d9f19a7ad52a9675a58e08de24b.m3u8
-#EXTINF:-1 group-title="其他",KBS2 HD
-http://pull-l3-cny.douyincdn.com/live/9accc1d4ae7e4bfa7350249c05a0e3af.m3u8
-#EXTINF:-1 group-title="其他",MBC HD
-http://pull-l3-cny.douyincdn.com/live/4f444d2b71e8fbab0a8802b9fa23ea5b.m3u8
-#EXTINF:-1 group-title="其他",SBS HD
-http://pull-l3-cny.douyincdn.com/live/d10b659225b3738937372b8835b94f1c.m3u8
+#EXTINF:-1 group-title="港澳台",翡翠台
+http://pull-l3-cny.douyincdn.com/third/stream-1f41fa6570c0c2fe39fef0752f76de81.m3u8
+#EXTINF:-1 group-title="港澳台",华丽翡翠台
+http://pull-l3-cny.douyincdn.com/third/stream-8f0f5b53f8ad921929fc9ac8771cbd82.m3u8
+#EXTINF:-1 group-title="港澳台",明珠台
+http://pull-l3-cny.douyincdn.com/third/stream-81c6196a626a87b4bc7a81d032b0bf7f.m3u8
+#EXTINF:-1 group-title="港澳台",无线财经
+http://pull-l3-cny.douyincdn.com/third/stream-beb24d452126196227a4c183337d6bfd.m3u8
+#EXTINF:-1 group-title="港澳台",有线新闻台
+http://pull-l3-cny.douyincdn.com/third/stream-3ce3ba86a40b1b2055eeda4f8cf6517e.m3u8
+#EXTINF:-1 group-title="港澳台",有线财经台
+http://pull-l3-cny.douyincdn.com/third/stream-6cce73798021d977d916afacf1caba36.m3u8
+#EXTINF:-1 group-title="港澳台",有线直播台
+http://pull-l3-cny.douyincdn.com/third/stream-1696778d64f00f3f9c0aefe3b2136ffe.m3u8
+#EXTINF:-1 group-title="港澳台",美亚电影台
+http://pull-l3-cny.douyincdn.com/third/stream-b16e0049bdda5f54e62d3c9b694d81ff.m3u8
+#EXTINF:-1 group-title="港澳台",纬来戏剧台
+http://pull-l3-cny.douyincdn.com/third/stream-cf93b19e055f2800058541033c0c4355.m3u8
+#EXTINF:-1 group-title="港澳台",纬来电影台
+http://pull-l3-cny.douyincdn.com/third/stream-6de7ee8878da79aaf393c0f63081cb0c.m3u8
+#EXTINF:-1 group-title="港澳台",莲花电影台
+http://pull-l3-cny.douyincdn.com/third/stream-f3caad21816e3bfe2210a692387ab040.m3u8
+#EXTINF:-1 group-title="港澳台",好莱坞电影
+http://pull-l3-cny.douyincdn.com/third/stream-06027cd7cadf310982fe67221578515b.m3u8
+#EXTINF:-1 group-title="港澳台",龙祥电影台
+http://pull-l3-cny.douyincdn.com/third/stream-c32278dece9f79334a2a878aaa730e95.m3u8
+#EXTINF:-1 group-title="港澳台",天映电影台
+http://pull-l3-cny.douyincdn.com/third/stream-4480903e93e7bf6ddde637e903c423a0.m3u8
+#EXTINF:-1 group-title="港澳台",东森电影台
+http://pull-l3-cny.douyincdn.com/third/stream-3d50d525417f450fdbc3fbbf5ac32960.m3u8
+#EXTINF:-1 group-title="港澳台",东森洋片台
+http://pull-l3-cny.douyincdn.com/third/stream-ed503be0a61dc988e0a7d9e1f57a1885.m3u8
+#EXTINF:-1 group-title="港澳台",HBO HD
+http://pull-l3-cny.douyincdn.com/third/stream-b2478a833f3e8b439b680048fcbf7786.m3u8
+#EXTINF:-1 group-title="港澳台",HBO家庭影院
+http://pull-l3-cny.douyincdn.com/third/stream-1279e1fd458348b32fd60381b1017c09.m3u8
+#EXTINF:-1 group-title="港澳台",HBO原创电影
+http://pull-l3-cny.douyincdn.com/third/stream-9bfb4b08fec367ed3850357a853250d5.m3u8
+#EXTINF:-1 group-title="港澳台",HBO强档影院
+http://pull-l3-cny.douyincdn.com/third/stream-162f0111fdd134e929d72640e6c4ea56.m3u8
+#EXTINF:-1 group-title="港澳台",探索频道HD
+http://pull-l3-cny.douyincdn.com/third/stream-34633761735b6c677356a7c551f89888.m3u8
+#EXTINF:-1 group-title="港澳台",KBS1 HD
+http://pull-l3-cny.douyincdn.com/third/stream-da1f0d9f19a7ad52a9675a58e08de24b.m3u8
+#EXTINF:-1 group-title="港澳台",KBS2 HD
+http://pull-l3-cny.douyincdn.com/third/stream-9accc1d4ae7e4bfa7350249c05a0e3af.m3u8
+#EXTINF:-1 group-title="港澳台",MBC HD
+http://pull-l3-cny.douyincdn.com/third/stream-4f444d2b71e8fbab0a8802b9fa23ea5b.m3u8
+#EXTINF:-1 group-title="港澳台",SBS HD
+http://pull-l3-cny.douyincdn.com/third/stream-d10b659225b3738937372b8835b94f1c.m3u8
