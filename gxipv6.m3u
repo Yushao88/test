@@ -1,42 +1,146 @@
 #EXTM3U
-#EXTINF:-1 group-title="4K",4K
-http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000197/index.m3u8?IAS
-#EXTINF:-1 group-title="4K",4K
-http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000196/index.m3u8?IAS
-#EXTINF:-1 group-title="4K",4K
-http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
-#EXTINF:-1 group-title="4K",4K
-http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000441/index.m3u8?IAS
-#EXTINF:-1 group-title="4K",4K
-http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/08984400000000060000000000000441/index.m3u8?IAS
-#EXTINF:-1 group-title="4K",4K
-http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
-#EXTINF:-1 group-title="4K",4K
-http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000196/index.m3u8?IAS
-#EXTINF:-1 group-title="4K",4K
-http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000197/index.m3u8?IAS
-#EXTINF:-1 group-title="4K",4K
-http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000196/index.m3u8?IAS
-#EXTINF:-1 group-title="4K",4K
-http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
-#EXTINF:-1 group-title="4K",4K
-http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/08984400000000060000000000000441/index.m3u8?IAS
-#EXTINF:-1 group-title="4K",4K
-http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000197/index.m3u8?IAS
-#EXTINF:-1 group-title="4K",4K
-http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
-#EXTINF:-1 group-title="4K",4K
-http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-#EXTINF:-1 group-title="4K",4K
-http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000197/index.m3u8?IAS
-#EXTINF:-1 group-title="4K",4K
-http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000196/index.m3u8?IAS
-#EXTINF:-1 group-title="4K",4K电影
-http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-#EXTINF:-1 group-title="4K",4K电影
-http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-#EXTINF:-1 group-title="4K",4K电影
-http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
+#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
+http://[2409:8087:5c00:10:5::149]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225769/index.m3u8
+#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
+http://[2409:8087:5c00:10:5::137]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225771/index.m3u8
+#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
+http://[2409:8087:5c00:10:5::91]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225774/index.m3u8
+#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
+http://[2409:8087:5c00:10:5::134]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225777/index.m3u8
+#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
+http://[2409:8087:5c00:10:5::136]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225780/index.m3u8
+#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
+http://[2409:8087:5c00:10:5::82]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225783/index.m3u8
+#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
+http://[2409:8087:5c00:10:5::87]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225786/index.m3u8
+#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
+http://[2409:8087:5c00:10:5::99]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225789/index.m3u8
+#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
+http://[2409:8087:5c00:10:5::72]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225792/index.m3u8
+#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
+http://[2409:8087:5c00:10:5::87]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225793/index.m3u8
+#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
+http://[2409:8087:5c00:10:5::152]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225796/index.m3u8
+#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
+http://[2409:8087:5c00:10:5::146]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225799/index.m3u8
+#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
+http://[2409:8087:5c00:10:5::152]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225802/index.m3u8
+#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
+http://[2409:8087:5c00:10:5::135]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225805/index.m3u8
+#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
+http://[2409:8087:5c00:10:5::74]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225808/index.m3u8
+#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
+http://[2409:8087:5c00:10:5::136]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225811/index.m3u8
+#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
+http://[2409:8087:5c00:10:5::136]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225814/index.m3u8
+#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
+http://[2409:8087:5c00:10:5::84]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225817/index.m3u8
+#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
+http://[2409:8087:5c00:10:5::84]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225820/index.m3u8
+#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
+http://[2409:8087:5c00:10:5::a]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225834/index.m3u8
+#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
+http://[2409:8087:5c00:10:5::74]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225837/index.m3u8
+#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
+http://[2409:8087:5c00:10:5::137]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225839/index.m3u8
+#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
+http://[2409:8087:5c00:10:5::135]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225840/index.m3u8
+#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
+http://[2409:8087:5c00:10:5::148]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225843/index.m3u8
+#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
+http://[2409:8087:5c00:10:5::141]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225845/index.m3u8
+#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
+http://[2409:8087:5c00:10:5::135]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225846/index.m3u8
+#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
+http://[2409:8087:5c00:10:5::141]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225848/index.m3u8
+#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
+http://[2409:8087:5c00:10:5::142]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225849/index.m3u8
+#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
+http://[2409:8087:5c00:10:5::80]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225850/index.m3u8
+#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
+http://[2409:8087:5c00:10:5::82]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225851/index.m3u8
+#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
+http://[2409:8087:5c00:10:5::149]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225852/index.m3u8
+#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
+http://[2409:8087:5c00:10:5::80]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225853/index.m3u8
+#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
+http://[2409:8087:5c00:10:5::147]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225854/index.m3u8
+#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
+http://[2409:8087:5c00:10:5::135]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225855/index.m3u8
+#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
+http://[2409:8087:5c00:10:5::142]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225856/index.m3u8
+#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
+http://[2409:8087:5c00:10:5::122]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225857/index.m3u8
+#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
+http://[2409:8087:5c00:10:5::145]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225858/index.m3u8
+#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
+http://[2409:8087:5c00:10:5::149]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225859/index.m3u8
+#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
+http://[2409:8087:5c00:10:5::122]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225860/index.m3u8
+#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
+http://[2409:8087:5c00:10:5::135]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225861/index.m3u8
+#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
+http://[2409:8087:5c00:10:5::143]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225862/index.m3u8
+#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
+http://[2409:8087:5c00:10:5::148]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225865/index.m3u8
+#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
+http://[2409:8087:5c00:10:5::134]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225868/index.m3u8
+#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
+http://[2409:8087:5c00:10:5::148]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225871/index.m3u8
+#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
+http://[2409:8087:5c00:10:5::138]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225891/index.m3u8
+#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
+http://[2409:8087:5c00:10:5::148]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225893/index.m3u8
+#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
+http://[2409:8087:5c00:10:5::134]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225896/index.m3u8
+#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
+http://[2409:8087:5c00:10:5::134]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225899/index.m3u8
+#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
+http://[2409:8087:5c00:10:5::144]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225902/index.m3u8
+#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
+http://[2409:8087:5c00:10:5::148]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225905/index.m3u8
+#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
+http://[2409:8087:5c00:10:5::144]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225908/index.m3u8
+#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
+http://[2409:8087:5c00:10:5::149]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225911/index.m3u8
+#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
+http://[2409:8087:5c00:10:5::135]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225914/index.m3u8
+#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
+http://[2409:8087:5c00:10:5::148]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225917/index.m3u8
+#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
+http://[2409:8087:5c00:10:5::156]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225920/index.m3u8
+#EXTINF:-1 group-title="咪咕直播",咪咕视频8M1080
+http://[2409:8087:5c00:10:5::154]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225842/index.m3u8
+#EXTINF:-1 group-title="咪咕直播",咪咕视频8M1080
+http://[2409:8087:5c00:10:5::139]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225876/index.m3u8
+#EXTINF:-1 group-title="咪咕直播",咪咕视频8M1080
+http://[2409:8087:5c00:10:5::139]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225935/index.m3u8
+#EXTINF:-1 group-title="咪咕直播",咪咕视频8M1080
+http://[2409:8087:5c00:10:5::138]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225959/index.m3u8
+#EXTINF:-1 group-title="咪咕直播",咪咕视频8M1080
+http://[2409:8087:5c00:10:5::147]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225962/index.m3u8
+#EXTINF:-1 group-title="咪咕体育",咪咕体育1
+http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
+#EXTINF:-1 group-title="咪咕体育",咪咕体育2
+http://39.135.134.67/000000001000/3000000001000008379/index.m3u8
+#EXTINF:-1 group-title="咪咕体育",咪咕体育3
+http://39.135.134.67/000000001000/3000000001000008001/index.m3u8
+#EXTINF:-1 group-title="咪咕体育",咪咕体育4
+http://39.135.134.67/000000001000/3000000001000031494/index.m3u8
+#EXTINF:-1 group-title="咪咕体育",咪咕体育5
+http://39.135.134.67/000000001000/3000000001000008176/index.m3u8
+#EXTINF:-1 group-title="咪咕体育",咪咕体育6
+http://39.135.134.34/000000001000/3000000001000010129/index.m3u8
+#EXTINF:-1 group-title="咪咕体育",咪咕体育7
+http://39.135.134.67/000000001000/3000000001000010948/index.m3u8
+#EXTINF:-1 group-title="咪咕体育",咪咕体育8
+http://39.135.134.67/000000001000/3000000001000007218/index.m3u8
+#EXTINF:-1 group-title="咪咕体育",咪咕体育9
+http://39.135.134.67/000000001000/3000000001000005308/index.m3u8
+#EXTINF:-1 group-title="咪咕体育",咪咕体育10
+http://39.135.134.67/000000001000/3000000001000005969/index.m3u8
+#EXTINF:-1 group-title="咪咕体育",咪咕体育11
+http://39.135.134.67/000000001000/3000000001000026778/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV1
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000131/index.m3u8?IAS
 #EXTINF:-1 group-title="央视",CCTV1
@@ -265,6 +369,44 @@ http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000494/ind
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000495/index.m3u8?IAS
 #EXTINF:-1 group-title="央视",CCTV17
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000494/index.m3u8?IAS
+#EXTINF:-1 group-title="4K",4K
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000197/index.m3u8?IAS
+#EXTINF:-1 group-title="4K",4K
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000196/index.m3u8?IAS
+#EXTINF:-1 group-title="4K",4K
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
+#EXTINF:-1 group-title="4K",4K
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000441/index.m3u8?IAS
+#EXTINF:-1 group-title="4K",4K
+http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/08984400000000060000000000000441/index.m3u8?IAS
+#EXTINF:-1 group-title="4K",4K
+http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
+#EXTINF:-1 group-title="4K",4K
+http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000196/index.m3u8?IAS
+#EXTINF:-1 group-title="4K",4K
+http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000197/index.m3u8?IAS
+#EXTINF:-1 group-title="4K",4K
+http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000196/index.m3u8?IAS
+#EXTINF:-1 group-title="4K",4K
+http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
+#EXTINF:-1 group-title="4K",4K
+http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/08984400000000060000000000000441/index.m3u8?IAS
+#EXTINF:-1 group-title="4K",4K
+http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000197/index.m3u8?IAS
+#EXTINF:-1 group-title="4K",4K
+http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
+#EXTINF:-1 group-title="4K",4K
+http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
+#EXTINF:-1 group-title="4K",4K
+http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000197/index.m3u8?IAS
+#EXTINF:-1 group-title="4K",4K
+http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000196/index.m3u8?IAS
+#EXTINF:-1 group-title="4K",4K电影
+http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
+#EXTINF:-1 group-title="4K",4K电影
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
+#EXTINF:-1 group-title="4K",4K电影
+http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 #EXTINF:-1 group-title="CETV",CETV 2
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000221/index.m3u8?IAS
 #EXTINF:-1 group-title="CETV",CETV 2
@@ -1351,146 +1493,3 @@ http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000235/ind
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000088/index.m3u8?IAS
 #EXTINF:-1 group-title="各地方台",综艺
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000235/index.m3u8?IAS
-#EXTINF:-1 group-title="咪咕体育",咪咕体育1
-http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
-#EXTINF:-1 group-title="咪咕体育",咪咕体育2
-http://39.135.134.67/000000001000/3000000001000008379/index.m3u8
-#EXTINF:-1 group-title="咪咕体育",咪咕体育3
-http://39.135.134.67/000000001000/3000000001000008001/index.m3u8
-#EXTINF:-1 group-title="咪咕体育",咪咕体育4
-http://39.135.134.67/000000001000/3000000001000031494/index.m3u8
-#EXTINF:-1 group-title="咪咕体育",咪咕体育5
-http://39.135.134.67/000000001000/3000000001000008176/index.m3u8
-#EXTINF:-1 group-title="咪咕体育",咪咕体育6
-http://39.135.134.34/000000001000/3000000001000010129/index.m3u8
-#EXTINF:-1 group-title="咪咕体育",咪咕体育7
-http://39.135.134.67/000000001000/3000000001000010948/index.m3u8
-#EXTINF:-1 group-title="咪咕体育",咪咕体育8
-http://39.135.134.67/000000001000/3000000001000007218/index.m3u8
-#EXTINF:-1 group-title="咪咕体育",咪咕体育9
-http://39.135.134.67/000000001000/3000000001000005308/index.m3u8
-#EXTINF:-1 group-title="咪咕体育",咪咕体育10
-http://39.135.134.67/000000001000/3000000001000005969/index.m3u8
-#EXTINF:-1 group-title="咪咕体育",咪咕体育11
-http://39.135.134.67/000000001000/3000000001000026778/index.m3u8
-#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
-http://[2409:8087:5c00:10:5::149]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225769/index.m3u8
-#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
-http://[2409:8087:5c00:10:5::137]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225771/index.m3u8
-#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
-http://[2409:8087:5c00:10:5::91]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225774/index.m3u8
-#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
-http://[2409:8087:5c00:10:5::134]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225777/index.m3u8
-#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
-http://[2409:8087:5c00:10:5::136]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225780/index.m3u8
-#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
-http://[2409:8087:5c00:10:5::82]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225783/index.m3u8
-#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
-http://[2409:8087:5c00:10:5::87]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225786/index.m3u8
-#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
-http://[2409:8087:5c00:10:5::99]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225789/index.m3u8
-#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
-http://[2409:8087:5c00:10:5::72]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225792/index.m3u8
-#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
-http://[2409:8087:5c00:10:5::87]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225793/index.m3u8
-#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
-http://[2409:8087:5c00:10:5::152]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225796/index.m3u8
-#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
-http://[2409:8087:5c00:10:5::146]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225799/index.m3u8
-#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
-http://[2409:8087:5c00:10:5::152]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225802/index.m3u8
-#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
-http://[2409:8087:5c00:10:5::135]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225805/index.m3u8
-#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
-http://[2409:8087:5c00:10:5::74]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225808/index.m3u8
-#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
-http://[2409:8087:5c00:10:5::136]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225811/index.m3u8
-#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
-http://[2409:8087:5c00:10:5::136]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225814/index.m3u8
-#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
-http://[2409:8087:5c00:10:5::84]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225817/index.m3u8
-#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
-http://[2409:8087:5c00:10:5::84]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225820/index.m3u8
-#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
-http://[2409:8087:5c00:10:5::a]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225834/index.m3u8
-#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
-http://[2409:8087:5c00:10:5::74]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225837/index.m3u8
-#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
-http://[2409:8087:5c00:10:5::137]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225839/index.m3u8
-#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
-http://[2409:8087:5c00:10:5::135]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225840/index.m3u8
-#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
-http://[2409:8087:5c00:10:5::148]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225843/index.m3u8
-#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
-http://[2409:8087:5c00:10:5::141]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225845/index.m3u8
-#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
-http://[2409:8087:5c00:10:5::135]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225846/index.m3u8
-#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
-http://[2409:8087:5c00:10:5::141]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225848/index.m3u8
-#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
-http://[2409:8087:5c00:10:5::142]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225849/index.m3u8
-#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
-http://[2409:8087:5c00:10:5::80]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225850/index.m3u8
-#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
-http://[2409:8087:5c00:10:5::82]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225851/index.m3u8
-#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
-http://[2409:8087:5c00:10:5::149]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225852/index.m3u8
-#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
-http://[2409:8087:5c00:10:5::80]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225853/index.m3u8
-#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
-http://[2409:8087:5c00:10:5::147]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225854/index.m3u8
-#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
-http://[2409:8087:5c00:10:5::135]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225855/index.m3u8
-#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
-http://[2409:8087:5c00:10:5::142]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225856/index.m3u8
-#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
-http://[2409:8087:5c00:10:5::122]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225857/index.m3u8
-#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
-http://[2409:8087:5c00:10:5::145]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225858/index.m3u8
-#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
-http://[2409:8087:5c00:10:5::149]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225859/index.m3u8
-#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
-http://[2409:8087:5c00:10:5::122]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225860/index.m3u8
-#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
-http://[2409:8087:5c00:10:5::135]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225861/index.m3u8
-#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
-http://[2409:8087:5c00:10:5::143]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225862/index.m3u8
-#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
-http://[2409:8087:5c00:10:5::148]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225865/index.m3u8
-#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
-http://[2409:8087:5c00:10:5::134]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225868/index.m3u8
-#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
-http://[2409:8087:5c00:10:5::148]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225871/index.m3u8
-#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
-http://[2409:8087:5c00:10:5::138]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225891/index.m3u8
-#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
-http://[2409:8087:5c00:10:5::148]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225893/index.m3u8
-#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
-http://[2409:8087:5c00:10:5::134]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225896/index.m3u8
-#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
-http://[2409:8087:5c00:10:5::134]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225899/index.m3u8
-#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
-http://[2409:8087:5c00:10:5::144]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225902/index.m3u8
-#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
-http://[2409:8087:5c00:10:5::148]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225905/index.m3u8
-#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
-http://[2409:8087:5c00:10:5::144]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225908/index.m3u8
-#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
-http://[2409:8087:5c00:10:5::149]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225911/index.m3u8
-#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
-http://[2409:8087:5c00:10:5::135]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225914/index.m3u8
-#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
-http://[2409:8087:5c00:10:5::148]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225917/index.m3u8
-#EXTINF:-1 group-title="咪咕直播",咪咕视频4M1080
-http://[2409:8087:5c00:10:5::156]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225920/index.m3u8
-#EXTINF:-1 group-title="咪咕直播",咪咕视频8M1080
-http://[2409:8087:5c00:10:5::154]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225842/index.m3u8
-#EXTINF:-1 group-title="咪咕直播",咪咕视频8M1080
-http://[2409:8087:5c00:10:5::139]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225876/index.m3u8
-#EXTINF:-1 group-title="咪咕直播",咪咕视频8M1080
-http://[2409:8087:5c00:10:5::139]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225935/index.m3u8
-#EXTINF:-1 group-title="咪咕直播",咪咕视频8M1080
-http://[2409:8087:5c00:10:5::138]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225959/index.m3u8
-#EXTINF:-1 group-title="咪咕直播",咪咕视频8M1080
-http://[2409:8087:5c00:10:5::147]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225962/index.m3u8
-
