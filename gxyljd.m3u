@@ -1,147 +1,147 @@
 #EXTM3U
 #EXTINF:-1 group-title="4K",4K
-http://116.11.140.239:8181/tsfile/live/1098_1.m3u8
+http://116.11.140.3:8181/tsfile/live/1098_1.m3u8
 #EXTINF:-1 group-title="央视",CCTV1
-http://116.11.140.239:8181/tsfile/live/1039_1.m3u8
+http://116.11.140.3:8181/tsfile/live/1039_1.m3u8
 #EXTINF:-1 group-title="央视",CCTV1
-http://116.11.140.239:8181/tsfile/live/1049_1.m3u8
+http://116.11.140.3:8181/tsfile/live/1049_1.m3u8
 #EXTINF:-1 group-title="央视",CCTV1
-http://116.11.140.239:8181/tsfile/live/0001_1.m3u8
+http://116.11.140.3:8181/tsfile/live/0001_1.m3u8
 #EXTINF:-1 group-title="央视",CCTV2
-http://116.11.140.239:8181/tsfile/live/0002_1.m3u8
+http://116.11.140.3:8181/tsfile/live/0002_1.m3u8
 #EXTINF:-1 group-title="央视",CCTV3
-http://116.11.140.239:8181/tsfile/live/0003_1.m3u8
+http://116.11.140.3:8181/tsfile/live/0003_1.m3u8
 #EXTINF:-1 group-title="央视",CCTV4
-http://116.11.140.239:8181/tsfile/live/0004_1.m3u8
+http://116.11.140.3:8181/tsfile/live/0004_1.m3u8
 #EXTINF:-1 group-title="央视",CCTV5
-http://116.11.140.239:8181/tsfile/live/0005_1.m3u8
+http://116.11.140.3:8181/tsfile/live/0005_1.m3u8
 #EXTINF:-1 group-title="央视",CCTV5
-http://116.11.140.239:8181/tsfile/live/1100_1.m3u8
+http://116.11.140.3:8181/tsfile/live/1100_1.m3u8
 #EXTINF:-1 group-title="央视",CCTV5+
-http://116.11.140.239:8181/tsfile/live/1046_1.m3u8
+http://116.11.140.3:8181/tsfile/live/1046_1.m3u8
 #EXTINF:-1 group-title="央视",CCTV6
-http://116.11.140.239:8181/tsfile/live/0006_1.m3u8
+http://116.11.140.3:8181/tsfile/live/0006_1.m3u8
 #EXTINF:-1 group-title="央视",CCTV8
-http://116.11.140.239:8181/tsfile/live/0008_1.m3u8
+http://116.11.140.3:8181/tsfile/live/0008_1.m3u8
 #EXTINF:-1 group-title="央视",CCTV9
-http://116.11.140.239:8181/tsfile/live/0009_1.m3u8
+http://116.11.140.3:8181/tsfile/live/0009_1.m3u8
 #EXTINF:-1 group-title="央视",CCTV11
-http://116.11.140.239:8181/tsfile/live/0011_1.m3u8
+http://116.11.140.3:8181/tsfile/live/0011_1.m3u8
 #EXTINF:-1 group-title="央视",CCTV12
-http://116.11.140.239:8181/tsfile/live/0012_1.m3u8
+http://116.11.140.3:8181/tsfile/live/0012_1.m3u8
 #EXTINF:-1 group-title="央视",CCTV13
-http://116.11.140.239:8181/tsfile/live/0013_1.m3u8
+http://116.11.140.3:8181/tsfile/live/0013_1.m3u8
 #EXTINF:-1 group-title="央视",CCTV14
-http://116.11.140.239:8181/tsfile/live/0014_1.m3u8
+http://116.11.140.3:8181/tsfile/live/0014_1.m3u8
 #EXTINF:-1 group-title="央视",CCTV16
-http://116.11.140.239:8181/tsfile/live/1051_1.m3u8
+http://116.11.140.3:8181/tsfile/live/1051_1.m3u8
 #EXTINF:-1 group-title="卫视",安徽卫视
-http://116.11.140.239:8181/tsfile/live/1096_1.m3u8
+http://116.11.140.3:8181/tsfile/live/1096_1.m3u8
 #EXTINF:-1 group-title="卫视",北京卫视
-http://116.11.140.239:8181/tsfile/live/1044_1.m3u8
+http://116.11.140.3:8181/tsfile/live/1044_1.m3u8
 #EXTINF:-1 group-title="卫视",东方卫视
-http://116.11.140.239:8181/tsfile/live/1045_1.m3u8
+http://116.11.140.3:8181/tsfile/live/1045_1.m3u8
 #EXTINF:-1 group-title="卫视",甘肃卫视
-http://116.11.140.239:8181/tsfile/live/1093_1.m3u8
+http://116.11.140.3:8181/tsfile/live/1093_1.m3u8
 #EXTINF:-1 group-title="卫视",广东卫视
-http://116.11.140.239:8181/tsfile/live/0125_1.m3u8
+http://116.11.140.3:8181/tsfile/live/0125_1.m3u8
 #EXTINF:-1 group-title="卫视",贵州卫视
-http://116.11.140.239:8181/tsfile/live/1097_1.m3u8
+http://116.11.140.3:8181/tsfile/live/1097_1.m3u8
 #EXTINF:-1 group-title="卫视",黑龙江卫视
-http://116.11.140.239:8181/tsfile/live/1041_1.m3u8
+http://116.11.140.3:8181/tsfile/live/1041_1.m3u8
 #EXTINF:-1 group-title="卫视",湖南卫视
-http://116.11.140.239:8181/tsfile/live/1047_1.m3u8
+http://116.11.140.3:8181/tsfile/live/1047_1.m3u8
 #EXTINF:-1 group-title="卫视",江苏卫视
-http://116.11.140.239:8181/tsfile/live/1042_1.m3u8
+http://116.11.140.3:8181/tsfile/live/1042_1.m3u8
 #EXTINF:-1 group-title="卫视",江西卫视
-http://116.11.140.239:8181/tsfile/live/1094_1.m3u8
+http://116.11.140.3:8181/tsfile/live/1094_1.m3u8
 #EXTINF:-1 group-title="卫视",辽宁卫视
-http://116.11.140.239:8181/tsfile/live/1092_1.m3u8
+http://116.11.140.3:8181/tsfile/live/1092_1.m3u8
 #EXTINF:-1 group-title="卫视",山东卫视
-http://116.11.140.239:8181/tsfile/live/1043_1.m3u8
+http://116.11.140.3:8181/tsfile/live/1043_1.m3u8
 #EXTINF:-1 group-title="卫视",深圳卫视
-http://116.11.140.239:8181/tsfile/live/0126_1.m3u8
+http://116.11.140.3:8181/tsfile/live/0126_1.m3u8
 #EXTINF:-1 group-title="卫视",四川卫视
-http://116.11.140.239:8181/tsfile/live/1095_1.m3u8
+http://116.11.140.3:8181/tsfile/live/1095_1.m3u8
 #EXTINF:-1 group-title="卫视",青海卫视
-http://116.11.140.239:8181/tsfile/live/0140_1.m3u8
+http://116.11.140.3:8181/tsfile/live/0140_1.m3u8
 #EXTINF:-1 group-title="卫视",浙江卫视
-http://116.11.140.239:8181/tsfile/live/0127_1.m3u8
+http://116.11.140.3:8181/tsfile/live/0127_1.m3u8
 #EXTINF:-1 group-title="广西台",广西都市
-http://116.11.140.239:8181/tsfile/live/1032_1.m3u8
+http://116.11.140.3:8181/tsfile/live/1032_1.m3u8
 #EXTINF:-1 group-title="广西台",广西卫视
-http://116.11.140.239:8181/tsfile/live/0113_1.m3u8
+http://116.11.140.3:8181/tsfile/live/0113_1.m3u8
 #EXTINF:-1 group-title="广西台",广西新闻
-http://116.11.140.239:8181/tsfile/live/1034_1.m3u8
+http://116.11.140.3:8181/tsfile/live/1034_1.m3u8
 #EXTINF:-1 group-title="广西台",广西影视
-http://116.11.140.239:8181/tsfile/live/1033_1.m3u8
+http://116.11.140.3:8181/tsfile/live/1033_1.m3u8
 #EXTINF:-1 group-title="广西台",广西综艺
-http://116.11.140.239:8181/tsfile/live/1001_1.m3u8
+http://116.11.140.3:8181/tsfile/live/1001_1.m3u8
 #EXTINF:-1 group-title="广西台",南宁都市
-http://116.11.140.239:8181/tsfile/live/1086_1.m3u8
+http://116.11.140.3:8181/tsfile/live/1086_1.m3u8
 #EXTINF:-1 group-title="广西台",南宁广告
-http://116.11.140.239:8181/tsfile/live/1084_1.m3u8
+http://116.11.140.3:8181/tsfile/live/1084_1.m3u8
 #EXTINF:-1 group-title="广西台",南宁新闻
-http://116.11.140.239:8181/tsfile/live/1083_1.m3u8
+http://116.11.140.3:8181/tsfile/live/1083_1.m3u8
 #EXTINF:-1 group-title="广西台",南宁影视
-http://116.11.140.239:8181/tsfile/live/1085_1.m3u8
+http://116.11.140.3:8181/tsfile/live/1085_1.m3u8
 #EXTINF:-1 group-title="广西台",广西新闻
-http://116.11.140.239:8181/tsfile/live/1050_1.m3u8
+http://116.11.140.3:8181/tsfile/live/1050_1.m3u8
 #EXTINF:-1 group-title="广西台",玉林新闻综合
-http://116.11.140.239:8181/tsfile/live/1037_1.m3u8
+http://116.11.140.3:8181/tsfile/live/1037_1.m3u8
 #EXTINF:-1 group-title="广西台",玉林公共
-http://116.11.140.239:8181/tsfile/live/1038_1.m3u8
+http://116.11.140.3:8181/tsfile/live/1038_1.m3u8
 #EXTINF:-1 group-title="广东台",CZ广州
-http://116.11.140.239:8181/tsfile/live/1022_1.m3u8
+http://116.11.140.3:8181/tsfile/live/1022_1.m3u8
 #EXTINF:-1 group-title="广东台",广东新闻
-http://116.11.140.239:8181/tsfile/live/1023_1.m3u8
+http://116.11.140.3:8181/tsfile/live/1023_1.m3u8
 #EXTINF:-1 group-title="广东台",广东公共
-http://116.11.140.239:8181/tsfile/live/1024_1.m3u8
+http://116.11.140.3:8181/tsfile/live/1024_1.m3u8
 #EXTINF:-1 group-title="广东台",广东体育
-http://116.11.140.239:8181/tsfile/live/1026_1.m3u8
+http://116.11.140.3:8181/tsfile/live/1026_1.m3u8
 #EXTINF:-1 group-title="广东台",广东经济科教
-http://116.11.140.239:8181/tsfile/live/1027_1.m3u8
+http://116.11.140.3:8181/tsfile/live/1027_1.m3u8
 #EXTINF:-1 group-title="广东台",广东少儿
-http://116.11.140.239:8181/tsfile/live/1028_1.m3u8
+http://116.11.140.3:8181/tsfile/live/1028_1.m3u8
 #EXTINF:-1 group-title="广东台",广东大湾区卫视
-http://116.11.140.239:8181/tsfile/live/1029_1.m3u8
+http://116.11.140.3:8181/tsfile/live/1029_1.m3u8
 #EXTINF:-1 group-title="广东台",广东影视
-http://116.11.140.239:8181/tsfile/live/1030_1.m3u8
+http://116.11.140.3:8181/tsfile/live/1030_1.m3u8
 #EXTINF:-1 group-title="广东台",广东珠江
-http://116.11.140.239:8181/tsfile/live/1031_1.m3u8
+http://116.11.140.3:8181/tsfile/live/1031_1.m3u8
 #EXTINF:-1 group-title="广东台",广州综合
-http://116.11.140.239:8181/tsfile/live/1025_1.m3u8
+http://116.11.140.3:8181/tsfile/live/1025_1.m3u8
 #EXTINF:-1 group-title="广东台",广东岭南戏曲
-http://116.11.140.239:8181/tsfile/live/1048_1.m3u8
+http://116.11.140.3:8181/tsfile/live/1048_1.m3u8
 #EXTINF:-1 group-title="广东台",广东嘉佳卡通
-http://116.11.140.239:8181/tsfile/live/1090_1.m3u8
+http://116.11.140.3:8181/tsfile/live/1090_1.m3u8
 #EXTINF:-1 group-title="特色频道",快乐垂钓
-http://116.11.140.239:8181/tsfile/live/1053_1.m3u8
+http://116.11.140.3:8181/tsfile/live/1053_1.m3u8
 #EXTINF:-1 group-title="特色频道",BRTV(KAKU少儿)
-http://116.11.140.239:8181/tsfile/live/1056_1.m3u8
+http://116.11.140.3:8181/tsfile/live/1056_1.m3u8
 #EXTINF:-1 group-title="特色频道",中国天气
-http://116.11.140.239:8181/tsfile/live/1063_1.m3u8
+http://116.11.140.3:8181/tsfile/live/1063_1.m3u8
 #EXTINF:-1 group-title="特色频道",金鹰卡通
-http://116.11.140.239:8181/tsfile/live/1064_1.m3u8
+http://116.11.140.3:8181/tsfile/live/1064_1.m3u8
 #EXTINF:-1 group-title="特色频道",华数
-http://116.11.140.239:8181/tsfile/live/1067_1.m3u8
+http://116.11.140.3:8181/tsfile/live/1067_1.m3u8
 #EXTINF:-1 group-title="特色频道",武术世界
-http://116.11.140.239:8181/tsfile/live/1070_1.m3u8
+http://116.11.140.3:8181/tsfile/live/1070_1.m3u8
 #EXTINF:-1 group-title="特色频道",生态环境
-http://116.11.140.239:8181/tsfile/live/1072_1.m3u8
+http://116.11.140.3:8181/tsfile/live/1072_1.m3u8
 #EXTINF:-1 group-title="特色频道",摄影频道
-http://116.11.140.239:8181/tsfile/live/1076_1.m3u8
+http://116.11.140.3:8181/tsfile/live/1076_1.m3u8
 #EXTINF:-1 group-title="特色频道",足球之夜
-http://116.11.140.239:8181/tsfile/live/1087_1.m3u8
+http://116.11.140.3:8181/tsfile/live/1087_1.m3u8
 #EXTINF:-1 group-title="特色频道",动漫秀场
-http://116.11.140.239:8181/tsfile/live/1088_1.m3u8
+http://116.11.140.3:8181/tsfile/live/1088_1.m3u8
 #EXTINF:-1 group-title="特色频道",图文信息
-http://116.11.140.239:8181/tsfile/live/1040_1.m3u8
+http://116.11.140.3:8181/tsfile/live/1040_1.m3u8
 #EXTINF:-1 group-title="特色频道",华数
-http://116.11.140.239:8181/tsfile/live/1089_1.m3u8
+http://116.11.140.3:8181/tsfile/live/1089_1.m3u8
 #EXTINF:-1 group-title="CHC电影频道",CHC动作电影
-http://116.11.140.239:8181/tsfile/live/1059_1.m3u8
+http://116.11.140.3:8181/tsfile/live/1059_1.m3u8
 #EXTINF:-1 group-title="CHC电影频道",CHC高清电影
-http://116.11.140.239:8181/tsfile/live/1060_1.m3u8
+http://116.11.140.3:8181/tsfile/live/1060_1.m3u8
 #EXTINF:-1 group-title="CHC电影频道",CHC家庭影院
-http://116.11.140.239:8181/tsfile/live/1058_1.m3u8
+http://116.11.140.3:8181/tsfile/live/1058_1.m3u8
