@@ -352,6 +352,18 @@ http://39.135.134.67/000000001000/3000000001000005308/index.m3u8
 http://39.135.134.67/000000001000/3000000001000005969/index.m3u8
 #EXTINF:-1 logo="" group-title="咪咕IPV4" ,咪咕11
 http://39.135.134.67/000000001000/3000000001000026778/index.m3u8
+#EXTINF:-1 group-title="咪咕IPV4",咪咕12 8M1080
+http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227047/index.m3u8
+#EXTINF:-1 group-title="咪咕IPV4",咪咕13 8M1080
+http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227107/index.m3u8
+#EXTINF:-1 group-title="咪咕IPV4",咪咕14 8M1080
+http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227158/index.m3u8
+#EXTINF:-1 group-title="咪咕IPV4",咪咕15 8M1080
+http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227189/index.m3u8
+#EXTINF:-1 group-title="咪咕IPV4",咪咕16 8M1080
+http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227228/index.m3u8
+#EXTINF:-1 group-title="咪咕IPV4",信号测试 5M1080
+http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226664/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="NBA League Pass",NBA TV
 http://194.40.240.183:25461/3397537295/4538699784/55195
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/1200px-ABC-2021-LOGO.svg.png" group-title="NBA League Pass",ABC
