@@ -287,48 +287,47 @@ https://livefr.cgtn.com/1000f/prog_index.m3u8
 https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-id="CGTN阿语" tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="央视",CGTN阿语
 https://livear.cgtn.com/1000a/prog_index.m3u8
-#EXTM3U
-#EXTINF:-1 group-title="咪咕",咪咕
+#EXTINF:-1 group-title="咪咕IPV6",咪咕
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226238/index.m3u8
-#EXTINF:-1 group-title="咪咕",咪咕
+#EXTINF:-1 group-title="咪咕IPV6",咪咕
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226235/index.m3u8
-#EXTINF:-1 group-title="咪咕",咪咕
+#EXTINF:-1 group-title="咪咕IPV6",咪咕
 http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226238/index.m3u8
-#EXTINF:-1 group-title="咪咕",咪咕
+#EXTINF:-1 group-title="咪咕IPV6",咪咕
 http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226241/index.m3u8
-#EXTINF:-1 group-title="咪咕",咪咕
+#EXTINF:-1 group-title="咪咕IPV6",咪咕
 http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221226243/index.m3u8
-#EXTINF:-1 group-title="咪咕",咪咕
+#EXTINF:-1 group-title="咪咕IPV6",咪咕
 http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221226241/index.m3u8
-#EXTINF:-1 group-title="咪咕",咪咕
+#EXTINF:-1 group-title="咪咕IPV6",咪咕
 http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221226240/index.m3u8
-#EXTINF:-1 group-title="咪咕",咪咕
+#EXTINF:-1 group-title="咪咕IPV6",咪咕
 http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226243/index.m3u8
-#EXTINF:-1 group-title="咪咕",咪咕
+#EXTINF:-1 group-title="咪咕IPV6",咪咕
 http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221226238/index.m3u8
-#EXTINF:-1 group-title="咪咕",咪咕
+#EXTINF:-1 group-title="咪咕IPV6",咪咕
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226241/index.m3u8
-#EXTINF:-1 group-title="咪咕",咪咕
+#EXTINF:-1 group-title="咪咕IPV6",咪咕
 http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226235/index.m3u8
-#EXTINF:-1 group-title="咪咕",咪咕
+#EXTINF:-1 group-title="咪咕IPV6",咪咕
 http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221226235/index.m3u8
-#EXTINF:-1 group-title="咪咕",咪咕
+#EXTINF:-1 group-title="咪咕IPV6",咪咕
 http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226240/index.m3u8
-#EXTINF:-1 group-title="咪咕",咪咕视频 8M1080
+#EXTINF:-1 group-title="咪咕IPV6",咪咕视频 8M1080
 http://[2409:8087:3800:20:1000::802]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226243/index.m3u8
-#EXTINF:-1 group-title="咪咕",咪咕视频 8M1080
+#EXTINF:-1 group-title="咪咕IPV6",咪咕视频 8M1080
 http://[2409:8087:3800:20:1000::805]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226240/index.m3u8
-#EXTINF:-1 group-title="咪咕",咪咕视频 8M1080
+#EXTINF:-1 group-title="咪咕IPV6",咪咕视频 8M1080
 http://[2409:8087:3800:20:1000::809]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226243/index.m3u8
-#EXTINF:-1 group-title="咪咕",咪咕视频 8M1080
+#EXTINF:-1 group-title="咪咕IPV6",咪咕视频 8M1080
 http://[2409:8087:3800:20:1000::806]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226243/index.m3u8
-#EXTINF:-1 group-title="咪咕",咪咕视频 8M1080
+#EXTINF:-1 group-title="咪咕IPV6",咪咕视频 8M1080
 http://[2409:8087:3800:20:1000::808]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226243/index.m3u8
-#EXTINF:-1 group-title="咪咕",咪咕视频 8M1080
+#EXTINF:-1 group-title="咪咕IPV6",咪咕视频 8M1080
 http://[2409:8087:3800:20:1000::806]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226240/index.m3u8
-#EXTINF:-1 group-title="咪咕",咪咕视频 8M1080
+#EXTINF:-1 group-title="咪咕IPV6",咪咕视频 8M1080
 http://[2409:8087:3800:20:1000::803]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226243/index.m3u8
-#EXTINF:-1 group-title="咪咕",咪咕视频 8M1080
+#EXTINF:-1 group-title="咪咕IPV6",咪咕视频 8M1080
 http://[2409:8087:3800:20:1000::804]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226240/index.m3u8
 #EXTINF:-1 logo="" group-title="咪咕IPV4" ,咪咕1
 http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
