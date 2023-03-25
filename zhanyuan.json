@@ -1,9 +1,9 @@
 {
-    "dyname": "laoyu影视库",
+    "dyname": "小鱼儿影视库",
     "dyzuozhe": "7758258@qq.com",
     "apiyuan": [
       {
-        "name": "KY影视",
+        "name": "酷云影视",
         "searchurl":
             "https://api.kunyu77.com/api.php/provide/searchVideo?pcode=040110002&version=1.8.5&package=com.idianVideo.app.android&sys=android&sysver=10&brand=vivo&model=V2136A&devid=5d6195167c4268ee03ac61044e453f74&sj=1672647882&searchName=",
         "searchua": "okhttp/3.12.0",
