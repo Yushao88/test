@@ -209,6 +209,28 @@ http://[2409:8087:3800:20:1000::806]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/
 http://[2409:8087:3800:20:1000::803]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226243/index.m3u8
 #EXTINF:-1 group-title="咪咕IPV6",咪咕视频 8M1080
 http://[2409:8087:3800:20:1000::804]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226240/index.m3u8
+#EXTINF:-1,tvg-id="咪咕视频-8M1080" tvg-name="咪咕视频-8M1080" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕IPV6",咪咕视频-8M1080
+http://[2409:8087:5011:1020::20]/PLTV/1/224/3221225837/1.m3u8
+#EXTINF:-1,tvg-id="咪咕视频-8M1080" tvg-name="咪咕视频-8M1080" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕IPV6",咪咕视频-8M1080
+http://[2409:8087:5011:1020::14]/PLTV/1/224/3221226220/1.m3u8
+#EXTINF:-1,tvg-id="咪咕视频-8M1080" tvg-name="咪咕视频-8M1080" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕IPV6",咪咕视频-8M1080
+http://[2409:8087:5011:1020::18]/PLTV/1/224/3221226222/1.m3u8
+#EXTINF:-1,tvg-id="咪咕视频-8M1080" tvg-name="咪咕视频-8M1080" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕IPV6",咪咕视频-8M1080
+http://[2409:8087:5011:1020::14]/PLTV/1/224/3221226224/1.m3u8
+#EXTINF:-1,tvg-id="咪咕视频-8M1080" tvg-name="咪咕视频-8M1080" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕IPV6",咪咕视频-8M1080
+http://[2409:8087:5011:1020::18]/PLTV/1/224/3221226226/1.m3u8
+#EXTINF:-1,tvg-id="咪咕视频-8M1080" tvg-name="咪咕视频-8M1080" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕IPV6",咪咕视频-8M1080
+http://[2409:8087:5011:1020::14]/PLTV/1/224/3221226228/1.m3u8
+#EXTINF:-1,tvg-id="咪咕视频-5M1080" tvg-name="咪咕视频-5M1080" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕IPV6",咪咕视频-5M1080
+http://[2409:8087:5011:1020::18]/PLTV/1/224/3221226230/1.m3u8
+#EXTINF:-1,tvg-id="咪咕视频-8M1080" tvg-name="咪咕视频-8M1080" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕IPV6",咪咕视频-8M1080
+http://[2409:8087:5011:1020::18]/PLTV/1/224/3221226232/1.m3u8
+#EXTINF:-1,tvg-id="咪咕视频-8M1080" tvg-name="咪咕视频-8M1080" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕IPV6",咪咕视频-8M1080
+http://[2409:8087:5011:1020::18]/PLTV/1/224/3221226234/1.m3u8
+#EXTINF:-1,tvg-id="咪咕视频-8M1080" tvg-name="咪咕视频-8M1080" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕IPV6",咪咕视频-8M1080
+http://[2409:8087:5011:1020::14]/PLTV/1/224/3221226236/1.m3u8
+#EXTINF:-1,tvg-id="咪咕视频-8M1080" tvg-name="咪咕视频-8M1080" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕IPV6",咪咕视频-8M1080
+http://[2409:8087:5011:1020::14]/PLTV/1/224/3221226238/1.m3u8
 #EXTINF:-1 group-title="咪咕 8M1080",咪咕视频_1
 http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
 #EXTINF:-1 group-title="咪咕 8M1080",咪咕视频_2
