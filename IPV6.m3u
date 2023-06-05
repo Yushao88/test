@@ -588,3 +588,141 @@ http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225906/index.m3u8
 http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="体育-咪咕直播-IPV6",咪咕直播4K-2
 http://[2409:8087:1a01:df::4005]/PLTV/88888888/224/3221225651/index.m3u8
+#EXTINF:-1,tvg-id="百事通直播1" tvg-name="百事通直播1" tvg-logo="https://epg.112114.xyz/logo/百事通直播1.png" group-title="百事通直播",百事通直播1
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001148/index.m3u8?
+#EXTINF:-1,tvg-id="百事通直播2" tvg-name="百事通直播2" tvg-logo="https://epg.112114.xyz/logo/百事通直播2.png" group-title="百事通直播",百事通直播2
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001149/index.m3u8?
+#EXTINF:-1,tvg-id="百事通直播3" tvg-name="百事通直播3" tvg-logo="https://epg.112114.xyz/logo/百事通直播3.png" group-title="百事通直播",百事通直播3
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001150/index.m3u8?
+#EXTINF:-1,tvg-id="百事通直播4" tvg-name="百事通直播4" tvg-logo="https://epg.112114.xyz/logo/百事通直播4.png" group-title="百事通直播",百事通直播4
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001151/index.m3u8?
+#EXTINF:-1,tvg-id="百事通直播5" tvg-name="百事通直播5" tvg-logo="https://epg.112114.xyz/logo/百事通直播5.png" group-title="百事通直播",百事通直播5
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001152/index.m3u8?
+#EXTINF:-1,tvg-id="百事通直播6" tvg-name="百事通直播6" tvg-logo="https://epg.112114.xyz/logo/百事通直播6.png" group-title="百事通直播",百事通直播6
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001153/index.m3u8?
+#EXTINF:-1,tvg-id="百事通直播7" tvg-name="百事通直播7" tvg-logo="https://epg.112114.xyz/logo/百事通直播7.png" group-title="百事通直播",百事通直播7
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001154/index.m3u8?
+#EXTINF:-1,tvg-id="百事通直播8" tvg-name="百事通直播8" tvg-logo="https://epg.112114.xyz/logo/百事通直播8.png" group-title="百事通直播",百事通直播8
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001359/index.m3u8?
+#EXTINF:-1,tvg-id="百事通直播9" tvg-name="百事通直播9" tvg-logo="https://epg.112114.xyz/logo/百事通直播9.png" group-title="百事通直播",百事通直播9
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001378/index.m3u8?
+#EXTINF:-1,tvg-id="百事通直播10" tvg-name="百事通直播10" tvg-logo="https://epg.112114.xyz/logo/百事通直播10.png" group-title="百事通直播",百事通直播10
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001388/index.m3u8?
+#EXTINF:-1,tvg-id="百事通直播11" tvg-name="百事通直播11" tvg-logo="https://epg.112114.xyz/logo/百事通直播11.png" group-title="百事通直播",百事通直播11
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001398/index.m3u8?
+#EXTINF:-1,tvg-id="NEWTV金牌综艺" tvg-name="NEWTV金牌综艺" tvg-logo="https://epg.112114.xyz/logo/NEWTV金牌综艺.png" group-title="NEWTV",金牌综艺
+http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221227541/index.m3u8?blog.ntnas.top
+#EXTINF:-1,tvg-id="NEWTV惊悚悬疑" tvg-name="NEWTV惊悚悬疑" tvg-logo="https://epg.112114.xyz/logo/NEWTV惊悚悬疑.png" group-title="NEWTV",惊悚悬疑
+http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221227536/index.m3u8?blog.ntnas.top
+#EXTINF:-1,tvg-id="NEWTV农业致富" tvg-name="NEWTV农业致富" tvg-logo="https://epg.112114.xyz/logo/NEWTV农业致富.png" group-title="NEWTV",农业致富
+http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221227588/index.m3u8?blog.ntnas.top
+#EXTINF:-1,tvg-id="NEWTV怡伴健康" tvg-name="NEWTV怡伴健康" tvg-logo="https://epg.112114.xyz/logo/NEWTV怡伴健康.png" group-title="NEWTV",怡伴健康
+http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221227612/index.m3u8?blog.ntnas.top
+#EXTINF:-1,tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级电视剧.png" group-title="NEWTV",电视剧
+http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000086/index.m3u8?blog.ntnas.top
+#EXTINF:-1,tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级电视剧.png" group-title="NEWTV",电视剧
+http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000084/index.m3u8?blog.ntnas.top
+#EXTINF:-1,tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级电视剧.png" group-title="NEWTV",电视剧
+http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000085/index.m3u8?blog.ntnas.top
+#EXTINF:-1,tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级电视剧.png" group-title="NEWTV",电视剧
+http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000411/index.m3u8?blog.ntnas.top
+#EXTINF:-1,tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级电视剧.png" group-title="NEWTV",电视剧
+http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000436/index.m3u8?blog.ntnas.top
+#EXTINF:-1,tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级电视剧.png" group-title="NEWTV",电视剧
+http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000435/index.m3u8?blog.ntnas.top
+#EXTINF:-1,tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级电视剧.png" group-title="NEWTV",电视剧
+http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000434/index.m3u8?blog.ntnas.top
+#EXTINF:-1,tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级电视剧.png" group-title="NEWTV",电视剧
+http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000433/index.m3u8?blog.ntnas.top
+#EXTINF:-1,tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级电视剧.png" group-title="NEWTV",电视剧
+http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000425/index.m3u8?blog.ntnas.top
+#EXTINF:-1,tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级电视剧.png" group-title="NEWTV",电视剧
+http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000415/index.m3u8?blog.ntnas.top
+#EXTINF:-1,tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级电视剧.png" group-title="NEWTV",电视剧
+http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000087/index.m3u8?blog.ntnas.top
+#EXTINF:-1,tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级电视剧.png" group-title="NEWTV",电视剧
+http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000411/index.m3u8?blog.ntnas.top
+#EXTINF:-1,tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级电视剧.png" group-title="NEWTV",电视剧
+http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000409/index.m3u8?blog.ntnas.top
+#EXTINF:-1,tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级电视剧.png" group-title="NEWTV",电视剧
+http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000125/index.m3u8?blog.ntnas.top
+#EXTINF:-1,tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级电视剧.png" group-title="NEWTV",电视剧
+http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000433/index.m3u8?blog.ntnas.top
+#EXTINF:-1,tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级电视剧.png" group-title="NEWTV",电视剧
+http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000417/index.m3u8?blog.ntnas.top
+#EXTINF:-1,tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级电视剧.png" group-title="NEWTV",电视剧
+http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000416/index.m3u8?blog.ntnas.top
+#EXTINF:-1,tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级电视剧.png" group-title="NEWTV",电视剧
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000087/index.m3u8?blog.ntnas.top
+#EXTINF:-1,tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级电视剧.png" group-title="NEWTV",电视剧
+http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000416/index.m3u8?blog.ntnas.top
+#EXTINF:-1,tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级电视剧.png" group-title="NEWTV",电视剧
+http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000417/index.m3u8?blog.ntnas.top
+#EXTINF:-1,tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级电视剧.png" group-title="NEWTV",电视剧
+http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000433/index.m3u8?blog.ntnas.top
+#EXTINF:-1,tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级电视剧.png" group-title="NEWTV",电视剧
+http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000125/index.m3u8?blog.ntnas.top
+#EXTINF:-1,tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级电视剧.png" group-title="NEWTV",电视剧
+http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000087/index.m3u8?blog.ntnas.top
+#EXTINF:-1,tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级电视剧.png" group-title="NEWTV",电视剧
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000085/index.m3u8?blog.ntnas.top
+#EXTINF:-1,tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级电视剧.png" group-title="NEWTV",电视剧
+http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000410/index.m3u8?blog.ntnas.top
+#EXTINF:-1,tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级电视剧.png" group-title="NEWTV",电视剧
+http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000415/index.m3u8?blog.ntnas.top
+#EXTINF:-1,tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级电视剧.png" group-title="NEWTV",电视剧
+http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000410/index.m3u8?blog.ntnas.top
+#EXTINF:-1,tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级电视剧.png" group-title="NEWTV",电视剧
+http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000409/index.m3u8?blog.ntnas.top
+#EXTINF:-1,tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级电视剧.png" group-title="NEWTV",电视剧
+http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000238/index.m3u8?blog.ntnas.top
+#EXTINF:-1,tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级电视剧.png" group-title="NEWTV",电视剧
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000238/index.m3u8?blog.ntnas.top
+#EXTINF:-1,tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级电视剧.png" group-title="NEWTV",电视剧
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000084/index.m3u8?blog.ntnas.top
+#EXTINF:-1,tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级电视剧.png" group-title="NEWTV",电视剧
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000416/index.m3u8?blog.ntnas.top
+#EXTINF:-1,tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级电视剧.png" group-title="NEWTV",电视剧
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000433/index.m3u8?blog.ntnas.top
+#EXTINF:-1,tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级电视剧.png" group-title="NEWTV",电视剧
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000125/index.m3u8?blog.ntnas.top
+#EXTINF:-1,tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级电视剧.png" group-title="NEWTV",电视剧
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000086/index.m3u8?blog.ntnas.top
+#EXTINF:-1,tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级电视剧.png" group-title="NEWTV",电视剧
+http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000238/index.m3u8?blog.ntnas.top
+#EXTINF:-1,tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级电视剧.png" group-title="NEWTV",电视剧
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000415/index.m3u8?blog.ntnas.top
+#EXTINF:-1,tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级电视剧.png" group-title="NEWTV",电视剧
+http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000081/index.m3u8?blog.ntnas.top
+#EXTINF:-1,tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级电视剧.png" group-title="NEWTV",电视剧
+http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000084/index.m3u8?blog.ntnas.top
+#EXTINF:-1,tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级电视剧.png" group-title="NEWTV",电视剧
+http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000084/index.m3u8?blog.ntnas.top
+#EXTINF:-1,tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级电视剧.png" group-title="NEWTV",电视剧
+http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000085/index.m3u8?blog.ntnas.top
+#EXTINF:-1,tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级电视剧.png" group-title="NEWTV",电视剧
+http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000086/index.m3u8?blog.ntnas.top
+#EXTINF:-1,tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级电视剧.png" group-title="NEWTV",电视剧
+http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000087/index.m3u8?blog.ntnas.top
+#EXTINF:-1,tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级电视剧.png" group-title="NEWTV",电视剧
+http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000125/index.m3u8?blog.ntnas.top
+#EXTINF:-1,tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级电视剧.png" group-title="NEWTV",电视剧
+http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000409/index.m3u8?blog.ntnas.top
+#EXTINF:-1,tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级电视剧.png" group-title="NEWTV",电视剧
+http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000238/index.m3u8?blog.ntnas.top
+#EXTINF:-1,tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级电视剧.png" group-title="NEWTV",电视剧
+http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000085/index.m3u8?blog.ntnas.top
+#EXTINF:-1,tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级电视剧.png" group-title="NEWTV",电视剧
+http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000415/index.m3u8?blog.ntnas.top
+#EXTINF:-1,tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级电视剧.png" group-title="NEWTV",电视剧
+http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000086/index.m3u8?blog.ntnas.top
+#EXTINF:-1,tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级电视剧.png" group-title="NEWTV",电视剧
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000410/index.m3u8?blog.ntnas.top
+#EXTINF:-1,tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级电视剧.png" group-title="NEWTV",电视剧
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000409/index.m3u8?blog.ntnas.top
+#EXTINF:-1,tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级电视剧.png" group-title="NEWTV",电视剧
+http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000411/index.m3u8?blog.ntnas.top
+#EXTINF:-1,tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级电视剧.png" group-title="NEWTV",电视剧
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000411/index.m3u8?blog.ntnas.top
+#EXTINF:-1,tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级电视剧.png" group-title="NEWTV",电视剧
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000417/index.m3u8?blog.ntnas.top
