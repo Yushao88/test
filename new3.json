@@ -1050,7 +1050,7 @@
           "detailxl": "//div[@class='swiper-wrapper']/a/text()",
           "detailjs": "//li/a/text()",
           "detailjsurl": "//li/a/@href"
-        }
+        },
         {
             "name": "🦎蜥蜴影院",
             "searchUrl": "https://xi1.net",
