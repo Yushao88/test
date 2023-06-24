@@ -611,7 +611,8 @@
        "searchstarr":"",
        "detaillist":"//div[@class=&&&sort-item&&&]",
        "detailxl":"//div[@class=&&&module-tab-content&&&]/div/@data-dropdown-value",
-       "detailjs":"//a/text()","detailjsurl":"//a/@href"},
+       "detailjs":"//a/text()","detailjsurl":"//a/@href"
+       },
        {
         "name": "🦂摩羯影视",
         "searchUrl": "https://www.2248.tv",
