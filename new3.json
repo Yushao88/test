@@ -45,10 +45,45 @@
             "detailua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36"
         },
         {
+            "name": "极狐🦊API",
+            "searchurl": "https://www.kuin.one/api.php/provide/vod?ac=detail&wd=",
+            "searchua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
+            "detailurl": "https://www.kuin.one/api.php/provide/vod/?ac=detail&ids=",
+            "detailua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36"
+        },
+        {
+            "name": "🌏可米影视",
+            "searchurl": "https://cj.kemi.lol/api.php/provide/vod?ac=detail&wd=",
+            "searchua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
+            "detailurl": "https://cj.kemi.lol/api.php/provide/vod/?ac=detail&ids=",
+            "detailua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36"
+        },
+        {
+            "name": "🥚蛋蛋魔法",
+            "searchurl": "https://ddmf.net/api.php/provide/vod/?ac=detail&wd=",
+            "searchua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
+            "detailurl": "https://ddmf.net/api.php/provide/vod/?ac=detail&ids=",
+            "detailua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36"
+        },
+        {
+            "name": "🧅南瓜影视",
+            "searchurl": "https://nanguays.icu/api.php/provide/vod?ac=detail&wd=",
+            "searchua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
+            "detailurl": "https://nanguays.icu/api.php/provide/vod/?ac=detail&ids=",
+            "detailua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36"
+        },
+        {
             "name": "📺白嫖TV",
             "searchurl": "https://www.baipiaotv.com/api.php/provide/vod?ac=detail&wd=",
             "searchua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
             "detailurl": "https://www.baipiaotv.com/api.php/provide/vod/?ac=detail&ids=",
+            "detailua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36"
+        },
+        {
+            "name": "🐥影探",
+            "searchurl": "https://www.lfytv.cn/api.php/app/provide/vod?ac=detail&wd=",
+            "searchua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
+            "detailurl": "https://www.lfytv.cn/api.php/app/provide/vod/?ac=detail&ids=",
             "detailua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36"
         },
         {
@@ -94,7 +129,7 @@
 	"detailua": "okhttp/3.12.0"
 	},
        {
-      "name": "☁酷影影院",
+      "name": "🖼️┃酷影┃蓝光",
       "searchurl": "http://ys.realdou.cn/api.php/app/provide/searchVideo?pcode=040110002&version=1.8.5&package=com.idianVideo.app.android&sys=android&sysver=10&brand=vivo&model=V2136A&devid=5d6195167c4268ee03ac61044e453f74&sj=1672647882&searchName=",
       "searchua": "okhttp/3.12.0",
       "detailurl": "http://ys.realdou.cn/api.php/app/app/provide/videoPlaylist?pcode=040110002&version=1.8.5&package=com.idianVideo.app.android&sys=android&sysver=10&brand=vivo&model=V2136A&devid=5d6195167c4268ee03ac61044e453f74&sj=1672647882&ids=",
@@ -409,7 +444,7 @@
             "detailua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36"
         },
 		{
-			"name": "❤爱酷官方",
+			"name": "🔷┃新片┃热播",
 			"searchurl": "https://api.iku.cool/api.php/provide/vod/?ac=detail&wd=",
 			"searchua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
 			"detailurl": "https://api.iku.cool/api.php/provide/vod/?ac=detail&ids=",
