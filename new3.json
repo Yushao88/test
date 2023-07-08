@@ -38,6 +38,13 @@
             "detailua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36"
         },
         {
+            "name": "👍OK┃采集",
+            "searchurl": "https://okzy1.tv/api.php/provide/vod/?ac=detail&wd=",
+            "searchua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
+            "detailurl": "https://okzy1.tv/api.php/provide/vod/?ac=detail&ids=",
+            "detailua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36"
+        },
+        {
             "name": "👍资源┃采集",
             "searchurl": "https://www.zycaiji.net:7788/api.php/provide/vod/?ac=detail&wd=",
             "searchua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
@@ -182,6 +189,13 @@
             "searchurl": "http://luoye.shop:66/api.php/app/provide/vod?ac=detail&wd=",
             "searchua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
             "detailurl": "http://luoye.shop:66/api.php/app/provide/vod/?ac=detail&ids=",
+            "detailua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36"
+        },
+        {
+            "name": "影探┃ 🗯️APP",
+            "searchurl": "http://ytcms.lfytyl.com/api.php/app/provide/vod?ac=detail&wd=",
+            "searchua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
+            "detailurl": "http://ytcms.lfytyl.com/api.php/app/provide/vod/?ac=detail&ids=",
             "detailua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36"
         },
         {
