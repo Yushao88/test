@@ -283,7 +283,7 @@ http://[2409:8087:1a01:df::4005]/PLTV/88888888/224/3221225651/index.m3u8
 http://[2409:8087:7001:20:1000::97]:6610/000000001000/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕直播-IPV6",咪咕直播-2-4K
 http://[2409:8087:7001:20:1000::97]:6610/000000001000/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRm18cbp/NBA.png" group-title="NBA季后赛",咪咕中文
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRm18cbp/NBA.png" group-title="咪咕直播-IPV6",咪咕中文
 http://[2409:8087:7001:20:1000::97]:6610/000000001001/3000000001000028638/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕直播-IPV6",咪咕直播-1
 http://[2409:8087:7001:20:1000::97]:6610/000000001000/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3
