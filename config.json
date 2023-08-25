@@ -20,6 +20,12 @@
         "type": 3,
         "api": "https://ghproxy.com/https://raw.githubusercontent.com/okcaptain/okvod/main/appysv2.js",
         "ext": "https://yanetflix.me/api.php/app/"
+      },
+      {
+        "key": "czzy",
+        "name": "厂长",
+        "type": 3,
+        "api": "https://ghproxy.com/https://raw.githubusercontent.com/okcaptain/okvod/main/czzy_open.js"
       }
     ]
   }
