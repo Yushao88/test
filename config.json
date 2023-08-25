@@ -1,0 +1,26 @@
+{
+  "video": {
+    "sites": [
+      {
+        "key": "kkys",
+        "name": "看看",
+        "type": 3,
+        "api": "https://ghproxy.com/https://raw.githubusercontent.com/okcaptain/okvod/main/kkys_open.js"
+      },
+      {
+        "key": "adys",
+        "name": "迪迪",
+        "type": 3,
+        "api": "https://ghproxy.com/https://raw.githubusercontent.com/okcaptain/okvod/main/appysv2.js",
+        "ext": "https://api123.adys.app/xgapp.php/v3/"
+      },
+      {
+        "key": "yanetflix",
+        "name": "鸭奈飞",
+        "type": 3,
+        "api": "https://ghproxy.com/https://raw.githubusercontent.com/okcaptain/okvod/main/appysv2.js",
+        "ext": "https://yanetflix.me/api.php/app/"
+      }
+    ]
+  }
+}
