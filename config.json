@@ -21,6 +21,27 @@
         "ext": "https://api123.adys.app/xgapp.php/v3/"
       },
       {
+        "key": "陌陌",
+        "name": "陌陌",
+        "type": 3,
+        "api": "https://ghproxy.com/https://raw.githubusercontent.com/okcaptain/okvod/main/appysv2.js",
+        "ext": "http://guan.yy365.vip/api.php/app/"
+      },
+      {
+        "key": "APP线路",
+        "name": "布蕾4K",
+        "type": 3,
+        "api": "https://ghproxy.com/https://raw.githubusercontent.com/okcaptain/okvod/main/appysv2.js",
+        "ext": "http://117.175.212.198:8088/api.php/app/"
+      },
+      {
+        "key": "落叶",
+        "name": "🍂落叶",
+        "type": 3,
+        "api": "https://ghproxy.com/https://raw.githubusercontent.com/okcaptain/okvod/main/appysv2.js",
+        "ext": "http://xn--yeta099v.online:66/api.php/app/"
+      },
+      {
         "key": "姐姐",
         "name": "👩‍🔬玩偶姐姐",
         "type": 3,
