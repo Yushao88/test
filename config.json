@@ -2,8 +2,14 @@
   "video": {
     "sites": [
       {
+        "key": "ikanbot",
+        "name": "爱看",
+        "type": 3,
+        "api": "https://ghproxy.com/https://raw.githubusercontent.com/catvod/CatVodOpen/main/open/ikanbot_open.js"
+      },
+      {
         "key": "kkys",
-        "name": "看看",
+        "name": "快看",
         "type": 3,
         "api": "https://ghproxy.com/https://raw.githubusercontent.com/okcaptain/okvod/main/kkys_open.js"
       },
