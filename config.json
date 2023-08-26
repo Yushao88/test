@@ -151,6 +151,13 @@
         "ext": "https://yanetflix.me/api.php/app/"
       },
       {
+        "key": "csp_三亚",
+        "name": "三鸭",
+        "type": 3,
+        "api": "https://ghproxy.com/https://raw.githubusercontent.com/okcaptain/okvod/main/appysv2.js",
+        "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
+      },
+      {
         "key": "在线之家",
         "name": "在线之家",
         "type": 3,
