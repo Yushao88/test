@@ -5,7 +5,13 @@
         "key": "kunyu77",
         "name": "酷云",
         "type": 3,
-        "api": "https://ghproxy.com/https://raw.githubusercontent.com/catvod/CatVodOpen/main/open/kunyu77_open.js"
+        "api": "https://ghproxy.com/https://raw.githubusercontent.com/Yushao88/test/main/kunyu77_open.js"
+      },
+      {
+        "key": "素白白",
+        "name": "素白白",
+        "type": 3,
+        "api": "https://raw.githubusercontent.com/Yushao88/test/main/subaibai_open.js"
       },
       {
         "key": "ikanbot",
@@ -17,7 +23,7 @@
         "key": "kkys",
         "name": "快看",
         "type": 3,
-        "api": "https://ghproxy.com/https://raw.githubusercontent.com/catvod/CatVodOpen/main/open/kkys_open.js"
+        "api": "https://ghproxy.com/https://raw.githubusercontent.com/Yushao88/test/main/kkys_open.js"
       },
       {
         "key": "adys",
@@ -62,10 +68,10 @@
         "ext": "https://yanetflix.me/api.php/app/"
       },
       {
-        "key": "kkys",
-        "name": "快看影视",
+        "key": "在线之家",
+        "name": "在线之家",
         "type": 3,
-        "api": "https://qu.ax/cXYF.js"
+        "api": "https://raw.githubusercontent.com/Yushao88/test/main/zxzj_open.js"
       }
     ]
   }
