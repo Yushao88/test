@@ -39,11 +39,18 @@
         "ext": "https://api123.adys.app/xgapp.php/v3/"
       },
       {
-        "key": "布雷蓝光",
-        "name": "⚡布雷4K",
+        "key": "看看剧APP",
+        "name": "看看剧",
         "type": 3,
         "api": "https://ghproxy.com/https://raw.githubusercontent.com/okcaptain/okvod/main/appysv2.js",
-        "ext": "http://117.175.212.198:8088/api.php/app/"
+        "ext": "https://kankanju.vip/api.php/app/"
+      },
+      {
+        "key": "明帝影视",
+        "name": "明帝影视",
+        "type": 3,
+        "api": "https://ghproxy.com/https://raw.githubusercontent.com/okcaptain/okvod/main/appysv2.js",
+        "ext": "https://ys.md214.cn/api.php/app/"
       },
       {
         "key": "腐宅",
