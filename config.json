@@ -46,6 +46,13 @@
         "ext": "https://11111111.moguys.xyz/api.php/app/"
       },
       {
+        "key": "csp_appysv2_枇杷影院",
+        "name": "枇杷",
+        "type": 3,
+        "api": "https://ghproxy.com/https://raw.githubusercontent.com/okcaptain/okvod/main/appysv2.js",
+        "ext": "https://www.pipamovie.com/api.php/v1.vod"
+      },
+      {
         "key": "365",
         "name": "年年",
         "type": 3,
