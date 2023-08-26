@@ -39,6 +39,13 @@
         "ext": "https://api123.adys.app/xgapp.php/v3/"
       },
       {
+        "key": "布雷蓝光",
+        "name": "⚡布雷4K",
+        "type": 3,
+        "api": "https://ghproxy.com/https://raw.githubusercontent.com/okcaptain/okvod/main/appysv2.js",
+        "ext": "http://117.175.212.198:8088/api.php/app/"
+      },
+      {
         "key": "腐宅",
         "name": "腐宅",
         "type": 3,
