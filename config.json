@@ -39,6 +39,13 @@
         "ext": "https://api123.adys.app/xgapp.php/v3/"
       },
       {
+        "key": "00mogai",
+        "name": "八千",
+        "type": 3,
+        "api": "https://ghproxy.com/https://raw.githubusercontent.com/okcaptain/okvod/main/appysv2.js",
+        "ext": "http://154.31.2.112:8869/mogai_api.php/v1.vod"
+      },
+      {
         "key": "看看剧APP",
         "name": "看看剧",
         "type": 3,
