@@ -56,10 +56,10 @@
         "ext": "https://yanetflix.me/api.php/app/"
       },
       {
-        "key": "czzy",
-        "name": "厂长",
+        "key": "kkys",
+        "name": "快看影视",
         "type": 3,
-        "api": "https://ghproxy.com/https://raw.githubusercontent.com/okcaptain/okvod/main/czzy_open.js"
+        "api": "https://qu.ax/cXYF.js"
       }
     ]
   }
