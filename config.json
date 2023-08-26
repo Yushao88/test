@@ -46,6 +46,13 @@
         "ext": "https://kankanju.vip/api.php/app/"
       },
       {
+        "key": "csp_appys_996",
+        "name": "路人甲",
+        "type": 3,
+        "api": "https://ghproxy.com/https://raw.githubusercontent.com/okcaptain/okvod/main/appysv2.js",
+        "ext": "https://dytt996.com/api.php/app/"
+      },
+      {
         "key": "明帝影视",
         "name": "明帝影视",
         "type": 3,
