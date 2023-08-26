@@ -39,6 +39,13 @@
         "ext": "https://api123.adys.app/xgapp.php/v3/"
       },
       {
+        "key": "腐宅",
+        "name": "腐宅",
+        "type": 3,
+        "api": "https://ghproxy.com/https://raw.githubusercontent.com/okcaptain/okvod/main/appysv2.js",
+        "ext": "http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"
+      },
+      {
         "key": "csp_AppYsV2如意",
         "name": "如意",
         "type": 3,
