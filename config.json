@@ -5,7 +5,7 @@
         "key": "kunyu77",
         "name": "酷云",
         "type": 3,
-        "api": "https://qu.ax/LxgU.js"
+        "api": "https://ghproxy.com/https://raw.githubusercontent.com/catvod/CatVodOpen/main/open/kunyu77_open.js"
       },
       {
         "key": "ikanbot",
@@ -17,7 +17,7 @@
         "key": "kkys",
         "name": "快看",
         "type": 3,
-        "api": "https://ghproxy.com/https://raw.githubusercontent.com/okcaptain/okvod/main/kkys_open.js"
+        "api": "https://ghproxy.com/https://raw.githubusercontent.com/catvod/CatVodOpen/main/open/kkys_open.js"
       },
       {
         "key": "adys",
