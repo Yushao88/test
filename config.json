@@ -2,6 +2,12 @@
   "video": {
     "sites": [
       {
+        "key": "kunyu77",
+        "name": "酷云",
+        "type": 3,
+        "api": "https://qu.ax/LxgU.js"
+      },
+      {
         "key": "ikanbot",
         "name": "爱看",
         "type": 3,
