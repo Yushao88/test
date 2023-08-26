@@ -101,6 +101,13 @@
         "api": "https://ghproxy.com/https://raw.githubusercontent.com/okcaptain/okvod/main/appysv2.js",
         "ext": "http://www.miniku.cc/xgapp.php/v1/"
       },
+       {
+        "key": "csp_appysv2_555电影",
+        "name": "555电影",
+        "type": 3,
+        "api": "https://ghproxy.com/https://raw.githubusercontent.com/okcaptain/okvod/main/appysv2.js",
+        "ext": "https://555dy3.com/api.php/app/"
+      },
       {
         "key": "落叶",
         "name": "🍂落叶",
