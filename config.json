@@ -39,6 +39,13 @@
         "ext": "https://api123.adys.app/xgapp.php/v3/"
       },
       {
+        "key": "csp_AppYsV2如意",
+        "name": "如意",
+        "type": 3,
+        "api": "https://ghproxy.com/https://raw.githubusercontent.com/okcaptain/okvod/main/appysv2.js",
+        "ext": "http://cms.maoyingshi.cc/api.php/app/"
+      },
+      {
         "key": "蘑菇2",
         "name": "蘑菇",
         "type": 3,
