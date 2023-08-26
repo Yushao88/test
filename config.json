@@ -2,6 +2,12 @@
   "video": {
     "sites": [
       {
+        "key": "libvio",
+        "name": "libvio",
+        "type": 3,
+        "api": "https://ghproxy.com/https://raw.githubusercontent.com/Yushao88/test/main/libvio_open.js"
+      },
+      {
         "key": "kunyu77",
         "name": "酷云",
         "type": 3,
