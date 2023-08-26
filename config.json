@@ -74,6 +74,13 @@
         "ext": "https://ttsp.live/api.php/app/"
       },
       {
+        "key": "蚂蚁",
+        "name": "蚂蚁",
+        "type": 3,
+        "api": "https://ghproxy.com/https://raw.githubusercontent.com/okcaptain/okvod/main/appysv2.js",
+        "ext": "http://wushutvcms.byzz.top/api.php/app/"
+      },
+      {
         "key": "瑞丰",
         "name": "辣辣",
         "type": 3,
