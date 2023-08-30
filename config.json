@@ -11,14 +11,42 @@
         "key": "adys",
         "name": "迪迪",
         "type": 3,
-        "api": "https://ghproxy.com/https://raw.githubusercontent.com/Yushao88/test/main/appysv2.js",
+        "api": "http://3.37.221.81:58038/down/cefyhK2H7LCR.js",
         "ext": "https://api123.adys.app/xgapp.php/v3/"
+      },
+      {
+        "key": "陌陌",
+        "name": "陌陌",
+        "type": 3,
+        "api": "http://3.37.221.81:58038/down/cefyhK2H7LCR.js",
+        "ext": "http://guan.yy365.vip/api.php/app/"
+      },
+      {
+        "key": "奇奇",
+        "name": "奇奇",
+        "type": 3,
+        "api": "http://3.37.221.81:58038/down/cefyhK2H7LCR.js",
+        "ext": "https://ttsp.live/api.php/app/"
+      },
+      {
+        "key": "酷酷",
+        "name": "酷酷",
+        "type": 3,
+        "api": "http://3.37.221.81:58038/down/cefyhK2H7LCR.js",
+        "ext": "http://cms.realdou.cn:35264/api.php/app/"
+      },
+      {
+        "key": "哈喽",
+        "name": "哈喽",
+        "type": 3,
+        "api": "http://3.37.221.81:58038/down/cefyhK2H7LCR.js",
+        "ext": "http://www.miniku.cc/xgapp.php/v1/"
       },
       {
         "key": "yanetflix",
         "name": "鸭奈飞",
         "type": 3,
-        "api": "https://ghproxy.com/https://raw.githubusercontent.com/Yushao88/test/main/appysv2.js",
+        "api": "http://3.37.221.81:58038/down/cefyhK2H7LCR.js",
         "ext": "https://yanetflix.me/api.php/app/"
       }
     ]
