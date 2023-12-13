@@ -14,55 +14,7 @@
         "api": "https://ghproxy.com/https://raw.githubusercontent.com/Yushao88/test/main/appysv2.js",
         "ext": "https://api123.adys.app/xgapp.php/v3/"
       },
-                  {
-                "key": "bilibiliT4",
-                "name": "影视 ┃ 4️⃣哔哩哔哩(T4)",
-                "type": 3,
-                "api": "./caiji.js",
-                "ext": "http://home.jundie.top:9520/spider/cli_Bili?sort=dash,mp4"
-            },
-            {
-                "key": "bookreaderT4",
-                "name": "首页 ┃ 4️⃣有声小说(T4)",
-                "type": 10,
-                "api": "./caiji.js",
-                "ext": "https://api.azure.leuse.free.hr/PythonT4/bookreader"
-            },
-            {
-                "key": "zhiboT4",
-                "name": "首页 ┃ 4️⃣live(T4)",
-                "type": 3,
-                "api": "./caiji.js",
-                "ext": "https://api.azure.leuse.free.hr/PythonT4/live"
-            },
-            {
-                "key": "doubanT4",
-                "name": "首页 ┃ 4️⃣豆瓣(T4)",
-                "type": 3,
-                "api": "./caiji.js",
-                "ext": "https://api.azure.leuse.free.hr/PythonT4/ali"
-            },
-            {
-                "key": "jianpianT4",
-                "name": "首页 ┃ 4️⃣荐片(T4)",
-                "type": 3,
-                "api": "./caiji.js",
-                "ext": "http://home.jundie.top:9520/spider/csp_JP"
-            },
-            {
-                "key": "gitCafeT4",
-                "name": "首页 ┃ 4️⃣小纸条(T4)",
-                "type": 3,
-                "api": "./caiji.js",
-                "ext": "http://home.jundie.top:9520/spider/cli_gitCafe"
-            },
-            {
-                "key": "woggT4",
-                "name": "首页 ┃ 4️⃣玩偶哥哥(T4)",
-                "type": 3,
-                "api": "./caiji.js",
-                "ext": "http://home.jundie.top:9520/spider/csp_Wogg?sort=%E5%8E%9F%E7%94%BB,%E8%93%9D%E5%85%89,%E8%B6%85%E6%B8%85,%E9%AB%98%E6%B8%85&token=7984abb3f03c447196459eebd03eda63"
-            },
+                  
       {
         "key": "yanetflix",
         "name": "鸭奈飞",
