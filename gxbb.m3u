@@ -1,279 +1,279 @@
 #EXTM3U
-#EXTINF:-1 group-title="卫视频道",广西IPTV[1920*1080]
+#EXTINF:-1 group-title="卫视",广西IPTV[1920*1080]
 http://opdf.top:8088/udp/239.81.0.203:4056
-#EXTINF:-1 group-title="卫视频道",广西IPTV[1920*1080]
+#EXTINF:-1 group-title="卫视",广西IPTV[1920*1080]
 http://opdf.top:8088/udp/239.81.0.208:4056
-#EXTINF:-1 group-title="卫视频道",广西卫视AC3-512[1920*1080]
+#EXTINF:-1 group-title="卫视",广西卫视AC3-512[1920*1080]
 http://opdf.top:8088/udp/239.81.0.107:4056
-#EXTINF:-1 group-title="卫视频道",广西影视[1920*1080]
+#EXTINF:-1 group-title="卫视",广西影视[1920*1080]
 http://opdf.top:8088/udp/239.81.0.250:4056
-#EXTINF:-1 group-title="卫视频道",广西新闻[1920*1080]
+#EXTINF:-1 group-title="卫视",广西新闻[1920*1080]
 http://opdf.top:8088/udp/239.81.0.248:4056
-#EXTINF:-1 group-title="卫视频道",广西综艺旅游[1920*1080]
+#EXTINF:-1 group-title="卫视",广西综艺旅游[1920*1080]
 http://opdf.top:8088/udp/239.81.0.214:4056
-#EXTINF:-1 group-title="卫视频道",广西都市[1920*1080]
+#EXTINF:-1 group-title="卫视",广西都市[1920*1080]
 http://opdf.top:8088/udp/239.81.0.247:4056
-#EXTINF:-1 group-title="卫视频道",南宁公共[1920*1080]
+#EXTINF:-1 group-title="卫视",南宁公共[1920*1080]
 http://opdf.top:8088/udp/239.81.0.141:4056
-#EXTINF:-1 group-title="卫视频道",南宁影视娱乐[1920*1080]
+#EXTINF:-1 group-title="卫视",南宁影视娱乐[1920*1080]
 http://opdf.top:8088/udp/239.81.0.140:4056
-#EXTINF:-1 group-title="卫视频道",南宁文旅生活[1920*1080]
+#EXTINF:-1 group-title="卫视",南宁文旅生活[1920*1080]
 http://opdf.top:8088/udp/239.81.0.139:4056
-#EXTINF:-1 group-title="卫视频道",南宁新闻综合[1920*1080]
+#EXTINF:-1 group-title="卫视",南宁新闻综合[1920*1080]
 http://opdf.top:8088/udp/239.81.0.241:4056
-#EXTINF:-1 group-title="卫视频道",防城港新闻综合[1920*1080]
+#EXTINF:-1 group-title="卫视",防城港新闻综合[1920*1080]
 http://opdf.top:8088/udp/239.81.0.151:4056
-#EXTINF:-1 group-title="卫视频道",贵港新闻综合[1920*1080]
+#EXTINF:-1 group-title="卫视",贵港新闻综合[1920*1080]
 http://opdf.top:8088/udp/239.81.0.172:4056
-#EXTINF:-1 group-title="卫视频道",来宾综合[1920*1080]
+#EXTINF:-1 group-title="卫视",来宾综合[1920*1080]
 http://opdf.top:8088/udp/239.81.0.173:4056
-#EXTINF:-1 group-title="卫视频道",河池新闻综合[1920*1080]
+#EXTINF:-1 group-title="卫视",河池新闻综合[1920*1080]
 http://opdf.top:8088/udp/239.81.0.168:4056
-#EXTINF:-1 group-title="卫视频道",柳州新闻综合[1920*1080]
+#EXTINF:-1 group-title="卫视",柳州新闻综合[1920*1080]
 http://opdf.top:8088/udp/239.81.0.175:4056
-#EXTINF:-1 group-title="卫视频道",灵山县电视台[1920*1080]
+#EXTINF:-1 group-title="卫视",灵山县电视台[1920*1080]
 http://opdf.top:8088/udp/239.81.0.189:4056
-#EXTINF:-1 group-title="卫视频道",玉林新闻综合[1920*1080]
+#EXTINF:-1 group-title="卫视",玉林新闻综合[1920*1080]
 http://opdf.top:8088/udp/239.81.0.177:4056
-#EXTINF:-1 group-title="卫视频道",桂林新闻综合[1920*1080]
+#EXTINF:-1 group-title="卫视",桂林新闻综合[1920*1080]
 http://opdf.top:8088/udp/239.81.0.174:4056
-#EXTINF:-1 group-title="卫视频道",钦州综合[1920*1080]
+#EXTINF:-1 group-title="卫视",钦州综合[1920*1080]
 http://opdf.top:8088/udp/239.81.0.164:4056
-#EXTINF:-1 group-title="卫视频道",贺州综合[1920*1080]
+#EXTINF:-1 group-title="卫视",贺州综合[1920*1080]
 http://opdf.top:8088/udp/239.81.0.163:4056
-#EXTINF:-1 group-title="卫视频道",北海新闻综合[1920*1080]
+#EXTINF:-1 group-title="卫视",北海新闻综合[1920*1080]
 http://opdf.top:8088/udp/239.81.0.154:4056
-#EXTINF:-1 group-title="卫视频道",梧州新闻综合[1920*1080]
+#EXTINF:-1 group-title="卫视",梧州新闻综合[1920*1080]
 http://opdf.top:8088/udp/239.81.0.176:4056
-#EXTINF:-1 group-title="卫视频道",百色综合[1920*1080]
+#EXTINF:-1 group-title="卫视",百色综合[1920*1080]
 http://opdf.top:8088/udp/239.81.0.150:4056
-#EXTINF:-1 group-title="卫视频道",容县电视台[1920*1080]
+#EXTINF:-1 group-title="卫视",容县电视台[1920*1080]
 http://opdf.top:8088/udp/239.81.0.194:4056
-#EXTINF:-1 group-title="央视频道",CCTV1综合-DD5.1[1920*1080]
+#EXTINF:-1 group-title="央视",CCTV1综合-DD5.1[1920*1080]
 http://opdf.top:8088/udp/239.81.0.102:4056
-#EXTINF:-1 group-title="央视频道",CCTV1-HEVC-AAC[1920*1080]
+#EXTINF:-1 group-title="央视",CCTV1-HEVC-AAC[1920*1080]
 http://opdf.top:8088/udp/239.81.1.2:4056
-#EXTINF:-1 group-title="央视频道",CCTV2-HEVC-AAC[1920*1080]
+#EXTINF:-1 group-title="央视",CCTV2-HEVC-AAC[1920*1080]
 http://opdf.top:8088/udp/239.81.1.3:4056
-#EXTINF:-1 group-title="央视频道",CCTV2财经DD5.1[1920*1080]
+#EXTINF:-1 group-title="央视",CCTV2财经DD5.1[1920*1080]
 http://opdf.top:8088/udp/239.81.0.115:4056
-#EXTINF:-1 group-title="央视频道",CCTV3-HEVC-AAC[1920*1080]
+#EXTINF:-1 group-title="央视",CCTV3-HEVC-AAC[1920*1080]
 http://opdf.top:8088/udp/239.81.1.4:4056
-#EXTINF:-1 group-title="央视频道",CCTV3综艺AC3[1920*1080]
+#EXTINF:-1 group-title="央视",CCTV3综艺AC3[1920*1080]
 http://opdf.top:8088/udp/239.81.0.231:4056
-#EXTINF:-1 group-title="央视频道",CCTV4-HEVC-AAC[1920*1080]
+#EXTINF:-1 group-title="央视",CCTV4-HEVC-AAC[1920*1080]
 http://opdf.top:8088/udp/239.81.1.5:4056
-#EXTINF:-1 group-title="央视频道",CCTV4中文国际DD5.1[1920*1080]
+#EXTINF:-1 group-title="央视",CCTV4中文国际DD5.1[1920*1080]
 http://opdf.top:8088/udp/239.81.0.96:4056
-#EXTINF:-1 group-title="央视频道",CCTV5+-HEVC-AAC[1920*1080]
+#EXTINF:-1 group-title="央视",CCTV5+-HEVC-AAC[1920*1080]
 http://opdf.top:8088/udp/239.81.1.18:4056
-#EXTINF:-1 group-title="央视频道",CCTV5+[1920*1080]
+#EXTINF:-1 group-title="央视",CCTV5+[1920*1080]
 http://opdf.top:8088/udp/239.81.0.101:4056
-#EXTINF:-1 group-title="央视频道",CCTV5-HEVC-AAC[1920*1080]
+#EXTINF:-1 group-title="央视",CCTV5-HEVC-AAC[1920*1080]
 http://opdf.top:8088/udp/239.81.1.6:4056
-#EXTINF:-1 group-title="央视频道",CCTV5体育[1920*1080]
+#EXTINF:-1 group-title="央视",CCTV5体育[1920*1080]
 http://opdf.top:8088/udp/239.81.0.133:4056
-#EXTINF:-1 group-title="央视频道",CCTV6-HEVC-AAC[1920*1080]
+#EXTINF:-1 group-title="央视",CCTV6-HEVC-AAC[1920*1080]
 http://opdf.top:8088/udp/239.81.1.7:4056
-#EXTINF:-1 group-title="央视频道",CCTV6电影AC3[1920*1080]
+#EXTINF:-1 group-title="央视",CCTV6电影AC3[1920*1080]
 http://opdf.top:8088/udp/239.81.0.233:4056
-#EXTINF:-1 group-title="央视频道",CCTV7-HEVC-AAC[1920*1080]
+#EXTINF:-1 group-title="央视",CCTV7-HEVC-AAC[1920*1080]
 http://opdf.top:8088/udp/239.81.1.8:4056
-#EXTINF:-1 group-title="央视频道",CCTV7国防军事DD5.1[1920*1080]
+#EXTINF:-1 group-title="央视",CCTV7国防军事DD5.1[1920*1080]
 http://opdf.top:8088/udp/239.81.0.116:4056
-#EXTINF:-1 group-title="央视频道",CCTV8-HEVC-AAC[1920*1080]
+#EXTINF:-1 group-title="央视",CCTV8-HEVC-AAC[1920*1080]
 http://opdf.top:8088/udp/239.81.1.9:4056
-#EXTINF:-1 group-title="央视频道",CCTV8电视剧AC3[1920*1080]
+#EXTINF:-1 group-title="央视",CCTV8电视剧AC3[1920*1080]
 http://opdf.top:8088/udp/239.81.0.234:4056
-#EXTINF:-1 group-title="央视频道",CCTV9-HEVC-AAC[1920*1080]
+#EXTINF:-1 group-title="央视",CCTV9-HEVC-AAC[1920*1080]
 http://opdf.top:8088/udp/239.81.1.10:4056
-#EXTINF:-1 group-title="央视频道",CCTV9纪录DD5.1[1920*1080]
+#EXTINF:-1 group-title="央视",CCTV9纪录DD5.1[1920*1080]
 http://opdf.top:8088/udp/239.81.0.117:4056
-#EXTINF:-1 group-title="央视频道",CCTV10-HEVC-AAC[1920*1080]
+#EXTINF:-1 group-title="央视",CCTV10-HEVC-AAC[1920*1080]
 http://opdf.top:8088/udp/239.81.1.11:4056
-#EXTINF:-1 group-title="央视频道",CCTV10科教DD5.1[1920*1080]
+#EXTINF:-1 group-title="央视",CCTV10科教DD5.1[1920*1080]
 http://opdf.top:8088/udp/239.81.0.118:4056
-#EXTINF:-1 group-title="央视频道",CCTV11-HEVC-AAC[1920*1080]
+#EXTINF:-1 group-title="央视",CCTV11-HEVC-AAC[1920*1080]
 http://opdf.top:8088/udp/239.81.1.12:4056
-#EXTINF:-1 group-title="央视频道",CCTV11戏曲DD5.1[1920*1080]
+#EXTINF:-1 group-title="央视",CCTV11戏曲DD5.1[1920*1080]
 http://opdf.top:8088/udp/239.81.0.229:4056
-#EXTINF:-1 group-title="央视频道",CCTV12-HEVC-AAC[1920*1080]
+#EXTINF:-1 group-title="央视",CCTV12-HEVC-AAC[1920*1080]
 http://opdf.top:8088/udp/239.81.1.13:4056
-#EXTINF:-1 group-title="央视频道",CCTV12社会与法DD5.1[1920*1080]
+#EXTINF:-1 group-title="央视",CCTV12社会与法DD5.1[1920*1080]
 http://opdf.top:8088/udp/239.81.0.119:4056
-#EXTINF:-1 group-title="央视频道",CCTV13-HEVC-AAC[1920*1080]
+#EXTINF:-1 group-title="央视",CCTV13-HEVC-AAC[1920*1080]
 http://opdf.top:8088/udp/239.81.1.14:4056
-#EXTINF:-1 group-title="央视频道",CCTV13新闻DD5.1[1920*1080]
+#EXTINF:-1 group-title="央视",CCTV13新闻DD5.1[1920*1080]
 http://opdf.top:8088/udp/239.81.0.206:4056
-#EXTINF:-1 group-title="央视频道",CCTV14-HEVC-AAC[1920*1080]
+#EXTINF:-1 group-title="央视",CCTV14-HEVC-AAC[1920*1080]
 http://opdf.top:8088/udp/239.81.1.15:4056
-#EXTINF:-1 group-title="央视频道",CCTV14少儿DD5.1[1920*1080]
+#EXTINF:-1 group-title="央视",CCTV14少儿DD5.1[1920*1080]
 http://opdf.top:8088/udp/239.81.0.120:4056
-#EXTINF:-1 group-title="央视频道",CCTV15-HEVC-AAC[1920*1080]
+#EXTINF:-1 group-title="央视",CCTV15-HEVC-AAC[1920*1080]
 http://opdf.top:8088/udp/239.81.1.16:4056
-#EXTINF:-1 group-title="央视频道",CCTV15体育AC3[1920*1080]
+#EXTINF:-1 group-title="央视",CCTV15体育AC3[1920*1080]
 http://opdf.top:8088/udp/239.81.0.232:4056
-#EXTINF:-1 group-title="央视频道",CCTV15音乐DD5.1[1920*1080]
+#EXTINF:-1 group-title="央视",CCTV15音乐DD5.1[1920*1080]
 http://opdf.top:8088/udp/239.81.0.230:4056
-#EXTINF:-1 group-title="央视频道",CCTV16奥林匹克[1920*1080]
+#EXTINF:-1 group-title="央视",CCTV16奥林匹克[1920*1080]
 http://opdf.top:8088/udp/239.81.0.142:4056
-#EXTINF:-1 group-title="央视频道",CCTV17-HEVC-AAC[1920*1080]
+#EXTINF:-1 group-title="央视",CCTV17-HEVC-AAC[1920*1080]
 http://opdf.top:8088/udp/239.81.1.19:4056
-#EXTINF:-1 group-title="央视频道",CCTV17农业农村DD5.1[1920*1080]
+#EXTINF:-1 group-title="央视",CCTV17农业农村DD5.1[1920*1080]
 http://opdf.top:8088/udp/239.81.0.228:4056
-#EXTINF:-1 group-title="国际频道",CETV-1-H264-AAC[1920*1080]
+#EXTINF:-1 group-title="国际",CETV-1-H264-AAC[1920*1080]
 http://opdf.top:8088/udp/239.81.1.60:4056
-#EXTINF:-1 group-title="国际频道",CETV-4-AC3[1920*1080]
+#EXTINF:-1 group-title="国际",CETV-4-AC3[1920*1080]
 http://opdf.top:8088/udp/239.81.0.188:4056
-#EXTINF:-1 group-title="国际频道",CETV1[1920*1080]
+#EXTINF:-1 group-title="国际",CETV1[1920*1080]
 http://opdf.top:8088/udp/239.81.0.92:4056
-#EXTINF:-1 group-title="卫视频道",4K测试频道[3840*2160]
+#EXTINF:-1 group-title="卫视",4K测试频道[3840*2160]
 http://opdf.top:8088/udp/239.81.0.123:4056
-#EXTINF:-1 group-title="央视频道",CCTV16-HEVC-AAC[3840*2160]
+#EXTINF:-1 group-title="央视",CCTV16-HEVC-AAC[3840*2160]
 http://opdf.top:8088/udp/239.81.1.17:4056
-#EXTINF:-1 group-title="央视频道",CCTV4K-40M-HDR-HEVC-原50帧-DD5.1[3840*2160]
+#EXTINF:-1 group-title="央视",CCTV4K-40M-HDR-HEVC-原50帧-DD5.1[3840*2160]
 http://opdf.top:8088/udp/239.81.0.196:4056
-#EXTINF:-1 group-title="央视频道",CCTV4K-HEVC-AAC-50帧[3840*2160]
+#EXTINF:-1 group-title="央视",CCTV4K-HEVC-AAC-50帧[3840*2160]
 http://opdf.top:8088/udp/239.81.1.78:4056
-#EXTINF:-1 group-title="卫视频道",BRTV|纪实科教-DD5.1[1920*1080]
+#EXTINF:-1 group-title="卫视",BRTV|纪实科教-DD5.1[1920*1080]
 http://opdf.top:8088/udp/239.81.0.195:4056
-#EXTINF:-1 group-title="卫视频道",BesTV-4K标[1920*1080]
+#EXTINF:-1 group-title="卫视",BesTV-4K标[1920*1080]
 http://opdf.top:8088/udp/239.81.0.166:4056
-#EXTINF:-1 group-title="卫视频道",BesTV4K标[1920*1080]
+#EXTINF:-1 group-title="卫视",BesTV4K标[1920*1080]
 http://opdf.top:8088/udp/239.81.0.1:4056
-#EXTINF:-1 group-title="卫视频道",东南卫视-HEVC-AAC[1920*1080]
+#EXTINF:-1 group-title="卫视",东南卫视-HEVC-AAC[1920*1080]
 http://opdf.top:8088/udp/239.81.1.34:4056
-#EXTINF:-1 group-title="卫视频道",东南卫视[1920*1080]
+#EXTINF:-1 group-title="卫视",东南卫视[1920*1080]
 http://opdf.top:8088/udp/239.81.0.215:4056
-#EXTINF:-1 group-title="卫视频道",东方卫视-HEVC-AAC[1920*1080]
+#EXTINF:-1 group-title="卫视",东方卫视-HEVC-AAC[1920*1080]
 http://opdf.top:8088/udp/239.81.1.23:4056
-#EXTINF:-1 group-title="卫视频道",东方卫视[1920*1080]
+#EXTINF:-1 group-title="卫视",东方卫视[1920*1080]
 http://opdf.top:8088/udp/239.81.0.111:4056
-#EXTINF:-1 group-title="卫视频道",云南卫视-H264-AAC[1920*1080]
+#EXTINF:-1 group-title="卫视",云南卫视-H264-AAC[1920*1080]
 http://opdf.top:8088/udp/239.81.1.42:4056
-#EXTINF:-1 group-title="卫视频道",五星体育[1920*1080]
+#EXTINF:-1 group-title="卫视",五星体育[1920*1080]
 http://opdf.top:8088/udp/239.81.0.184:4056
-#EXTINF:-1 group-title="卫视频道",北京卫视-HEVC-AAC[1920*1080]
+#EXTINF:-1 group-title="卫视",北京卫视-HEVC-AAC[1920*1080]
 http://opdf.top:8088/udp/239.81.1.24:4056
-#EXTINF:-1 group-title="卫视频道",北京卫视DD5.1[1920*1080]
+#EXTINF:-1 group-title="卫视",北京卫视DD5.1[1920*1080]
 http://opdf.top:8088/udp/239.81.0.109:4056
-#EXTINF:-1 group-title="卫视频道",吉林卫视-H264-AAC[1920*1080]
+#EXTINF:-1 group-title="卫视",吉林卫视-H264-AAC[1920*1080]
 http://opdf.top:8088/udp/239.81.1.50:4056
-#EXTINF:-1 group-title="卫视频道",吉林卫视AC3[1920*1080]
+#EXTINF:-1 group-title="卫视",吉林卫视AC3[1920*1080]
 http://opdf.top:8088/udp/239.81.0.143:4056
-#EXTINF:-1 group-title="卫视频道",和平游戏直播频道[1920*1080]
+#EXTINF:-1 group-title="卫视",和平游戏直播频道[1920*1080]
 http://opdf.top:8088/udp/239.81.0.201:4056
-#EXTINF:-1 group-title="卫视频道",四川卫视-HEVC-AAC[1920*1080]
+#EXTINF:-1 group-title="卫视",四川卫视-HEVC-AAC[1920*1080]
 http://opdf.top:8088/udp/239.81.1.39:4056
-#EXTINF:-1 group-title="卫视频道",四川卫视DD5.1-384K[1920*1080]
+#EXTINF:-1 group-title="卫视",四川卫视DD5.1-384K[1920*1080]
 http://opdf.top:8088/udp/239.81.0.130:4056
-#EXTINF:-1 group-title="卫视频道",天津卫视-HEVC-AAC[1920*1080]
+#EXTINF:-1 group-title="卫视",天津卫视-HEVC-AAC[1920*1080]
 http://opdf.top:8088/udp/239.81.1.28:4056
-#EXTINF:-1 group-title="卫视频道",天津卫视[1920*1080]
+#EXTINF:-1 group-title="卫视",天津卫视[1920*1080]
 http://opdf.top:8088/udp/239.81.0.113:4056
-#EXTINF:-1 group-title="卫视频道",安徽卫视-HEVC-AAC[1920*1080]
+#EXTINF:-1 group-title="卫视",安徽卫视-HEVC-AAC[1920*1080]
 http://opdf.top:8088/udp/239.81.1.36:4056
-#EXTINF:-1 group-title="卫视频道",安徽卫视AC3[1920*1080]
+#EXTINF:-1 group-title="卫视",安徽卫视AC3[1920*1080]
 http://opdf.top:8088/udp/239.81.0.211:4056
-#EXTINF:-1 group-title="卫视频道",山东卫视-HEVC-AAC[1920*1080]
+#EXTINF:-1 group-title="卫视",山东卫视-HEVC-AAC[1920*1080]
 http://opdf.top:8088/udp/239.81.1.30:4056
-#EXTINF:-1 group-title="卫视频道",山东卫视[1920*1080]
+#EXTINF:-1 group-title="卫视",山东卫视[1920*1080]
 http://opdf.top:8088/udp/239.81.0.114:4056
-#EXTINF:-1 group-title="卫视频道",广东卫视-HEVC-AAC[1920*1080]
+#EXTINF:-1 group-title="卫视",广东卫视-HEVC-AAC[1920*1080]
 http://opdf.top:8088/udp/239.81.1.21:4056
-#EXTINF:-1 group-title="卫视频道",广东卫视DD5.1[1920*1080]
+#EXTINF:-1 group-title="卫视",广东卫视DD5.1[1920*1080]
 http://opdf.top:8088/udp/239.81.0.104:4056
-#EXTINF:-1 group-title="卫视频道",黑龙江卫视-HEVC-AAC[1920*1080]
+#EXTINF:-1 group-title="卫视",黑龙江卫视-HEVC-AAC[1920*1080]
 http://opdf.top:8088/udp/239.81.1.31:4056
-#EXTINF:-1 group-title="卫视频道",黑龙江卫视[1920*1080]
+#EXTINF:-1 group-title="卫视",黑龙江卫视[1920*1080]
 http://opdf.top:8088/udp/239.81.0.105:4056
-#EXTINF:-1 group-title="卫视频道",江苏卫视-HEVC-AAC[1920*1080]
+#EXTINF:-1 group-title="卫视",江苏卫视-HEVC-AAC[1920*1080]
 http://opdf.top:8088/udp/239.81.1.26:4056
-#EXTINF:-1 group-title="卫视频道",江苏卫视DD5.1[1920*1080]
+#EXTINF:-1 group-title="卫视",江苏卫视DD5.1[1920*1080]
 http://opdf.top:8088/udp/239.81.0.106:4056
-#EXTINF:-1 group-title="卫视频道",江西卫视-HEVC-AAC[1920*1080]
+#EXTINF:-1 group-title="卫视",江西卫视-HEVC-AAC[1920*1080]
 http://opdf.top:8088/udp/239.81.1.38:4056
-#EXTINF:-1 group-title="卫视频道",江西卫视AC3[1920*1080]
+#EXTINF:-1 group-title="卫视",江西卫视AC3[1920*1080]
 http://opdf.top:8088/udp/239.81.0.204:4056
-#EXTINF:-1 group-title="卫视频道",河北卫视-HEVC-AAC[1920*1080]
+#EXTINF:-1 group-title="卫视",河北卫视-HEVC-AAC[1920*1080]
 http://opdf.top:8088/udp/239.81.1.32:4056
-#EXTINF:-1 group-title="卫视频道",河北卫视DD5.1[1920*1080]
+#EXTINF:-1 group-title="卫视",河北卫视DD5.1[1920*1080]
 http://opdf.top:8088/udp/239.81.0.94:4056
-#EXTINF:-1 group-title="卫视频道",河南卫视-H264-AAC[1920*1080]
+#EXTINF:-1 group-title="卫视",河南卫视-H264-AAC[1920*1080]
 http://opdf.top:8088/udp/239.81.1.41:4056
-#EXTINF:-1 group-title="卫视频道",浙江卫视-HEVC-AAC[1920*1080]
+#EXTINF:-1 group-title="卫视",浙江卫视-HEVC-AAC[1920*1080]
 http://opdf.top:8088/udp/239.81.1.25:4056
-#EXTINF:-1 group-title="卫视频道",浙江卫视DD5.1[1920*1080]
+#EXTINF:-1 group-title="卫视",浙江卫视DD5.1[1920*1080]
 http://opdf.top:8088/udp/239.81.0.108:4056
-#EXTINF:-1 group-title="卫视频道",海南卫视-H264-AAC[1920*1080]
+#EXTINF:-1 group-title="卫视",海南卫视-H264-AAC[1920*1080]
 http://opdf.top:8088/udp/239.81.1.45:4056
-#EXTINF:-1 group-title="卫视频道",深圳卫视-HEVC-AAC[1920*1080]
+#EXTINF:-1 group-title="卫视",深圳卫视-HEVC-AAC[1920*1080]
 http://opdf.top:8088/udp/239.81.1.27:4056
-#EXTINF:-1 group-title="卫视频道",深圳卫视[1920*1080]
+#EXTINF:-1 group-title="卫视",深圳卫视[1920*1080]
 http://opdf.top:8088/udp/239.81.0.103:4056
-#EXTINF:-1 group-title="卫视频道",湖北卫视-HEVC-AAC[1920*1080]
+#EXTINF:-1 group-title="卫视",湖北卫视-HEVC-AAC[1920*1080]
 http://opdf.top:8088/udp/239.81.1.29:4056
-#EXTINF:-1 group-title="卫视频道",湖北卫视[1920*1080]
+#EXTINF:-1 group-title="卫视",湖北卫视[1920*1080]
 http://opdf.top:8088/udp/239.81.0.112:4056
-#EXTINF:-1 group-title="卫视频道",湖南卫视-HEVC-AAC[1920*1080]
+#EXTINF:-1 group-title="卫视",湖南卫视-HEVC-AAC[1920*1080]
 http://opdf.top:8088/udp/239.81.1.22:4056
-#EXTINF:-1 group-title="卫视频道",湖南卫视DD5.1[1920*1080]
+#EXTINF:-1 group-title="卫视",湖南卫视DD5.1[1920*1080]
 http://opdf.top:8088/udp/239.81.0.110:4056
-#EXTINF:-1 group-title="卫视频道",贵州卫视-HEVC-AAC[1920*1080]
+#EXTINF:-1 group-title="卫视",贵州卫视-HEVC-AAC[1920*1080]
 http://opdf.top:8088/udp/239.81.1.33:4056
-#EXTINF:-1 group-title="卫视频道",贵州卫视[1920*1080]
+#EXTINF:-1 group-title="卫视",贵州卫视[1920*1080]
 http://opdf.top:8088/udp/239.81.0.95:4056
-#EXTINF:-1 group-title="卫视频道",辽宁卫视-HEVC-AAC[1920*1080]
+#EXTINF:-1 group-title="卫视",辽宁卫视-HEVC-AAC[1920*1080]
 http://opdf.top:8088/udp/239.81.1.35:4056
-#EXTINF:-1 group-title="卫视频道",辽宁卫视AC3[1920*1080]
+#EXTINF:-1 group-title="卫视",辽宁卫视AC3[1920*1080]
 http://opdf.top:8088/udp/239.81.0.210:4056
-#EXTINF:-1 group-title="卫视频道",重庆卫视-H264-AAC[1920*1080]
+#EXTINF:-1 group-title="卫视",重庆卫视-H264-AAC[1920*1080]
 http://opdf.top:8088/udp/239.81.1.44:4056
-#EXTINF:-1 group-title="卫视频道",甘肃卫视[1920*1080]
+#EXTINF:-1 group-title="卫视",甘肃卫视[1920*1080]
 http://opdf.top:8088/udp/239.81.0.207:4056
-#EXTINF:-1 group-title="卫视频道",BesTV体育[1920*1080]
+#EXTINF:-1 group-title="卫视",BesTV体育[1920*1080]
 http://opdf.top:8088/udp/239.81.0.182:4056
-#EXTINF:-1 group-title="卫视频道",BesTV游戏[1920*1080]
+#EXTINF:-1 group-title="卫视",BesTV游戏[1920*1080]
 http://opdf.top:8088/udp/239.81.0.181:4056
-#EXTINF:-1 group-title="卫视频道",百事测试[1920*1080]
+#EXTINF:-1 group-title="卫视",百事测试[1920*1080]
 http://opdf.top:8088/udp/239.81.0.178:4056
-#EXTINF:-1 group-title="卫视频道",百事测试[1920*1080]
+#EXTINF:-1 group-title="卫视",百事测试[1920*1080]
 http://opdf.top:8088/udp/239.81.0.179:4056
-#EXTINF:-1 group-title="卫视频道",百事测试[1920*1080]
+#EXTINF:-1 group-title="卫视",百事测试[1920*1080]
 http://opdf.top:8088/udp/239.81.0.180:4056
-#EXTINF:-1 group-title="卫视频道",百事测试[1920*1080]
+#EXTINF:-1 group-title="卫视",百事测试[1920*1080]
 http://opdf.top:8088/udp/239.81.0.183:4056
-#EXTINF:-1 group-title="卫视频道",百事测试[1920*1080]
+#EXTINF:-1 group-title="卫视",百事测试[1920*1080]
 http://opdf.top:8088/udp/239.81.0.185:4056
-#EXTINF:-1 group-title="卫视频道",百事测试[1920*1080]
+#EXTINF:-1 group-title="卫视",百事测试[1920*1080]
 http://opdf.top:8088/udp/239.81.0.186:4056
-#EXTINF:-1 group-title="卫视频道",睛彩广场舞[1920*1080]
+#EXTINF:-1 group-title="卫视",睛彩广场舞[1920*1080]
 http://opdf.top:8088/udp/239.81.0.193:4056
-#EXTINF:-1 group-title="卫视频道",睛彩竞技（试播）[1920*1080]
+#EXTINF:-1 group-title="卫视",睛彩竞技（试播）[1920*1080]
 http://opdf.top:8088/udp/239.81.0.190:4056
-#EXTINF:-1 group-title="卫视频道",睛彩篮球[1920*1080]
+#EXTINF:-1 group-title="卫视",睛彩篮球[1920*1080]
 http://opdf.top:8088/udp/239.81.0.191:4056
-#EXTINF:-1 group-title="卫视频道",睛彩羽毛球[1920*1080]
+#EXTINF:-1 group-title="卫视",睛彩羽毛球[1920*1080]
 http://opdf.top:8088/udp/239.81.0.192:4056
-#EXTINF:-1 group-title="卫视频道",精彩|影视[1920*1080]
+#EXTINF:-1 group-title="卫视",精彩|影视[1920*1080]
 http://opdf.top:8088/udp/239.81.0.152:4056
-#EXTINF:-1 group-title="卫视频道",求索|纪录[1920*1080]
+#EXTINF:-1 group-title="卫视",求索|纪录[1920*1080]
 http://opdf.top:8088/udp/239.81.0.153:4056
-#EXTINF:-1 group-title="卫视频道",纪实人文-H264-AAC[1920*1080]
+#EXTINF:-1 group-title="卫视",纪实人文-H264-AAC[1920*1080]
 http://opdf.top:8088/udp/239.81.1.70:4056
-#EXTINF:-1 group-title="卫视频道",纪实科教-H264-AAC[1920*1080]
+#EXTINF:-1 group-title="卫视",纪实科教-H264-AAC[1920*1080]
 http://opdf.top:8088/udp/239.81.1.69:4056
-#EXTINF:-1 group-title="卫视频道",芒果TV[1920*1080]
+#EXTINF:-1 group-title="卫视",芒果TV[1920*1080]
 http://opdf.top:8088/udp/239.81.0.100:4056
-#EXTINF:-1 group-title="卫视频道",王者游戏直播频道[1920*1080]
+#EXTINF:-1 group-title="卫视",王者游戏直播频道[1920*1080]
 http://opdf.top:8088/udp/239.81.0.202:4056
-#EXTINF:-1 group-title="卫视频道",金鹰卡通DD5.1[1920*1080]
+#EXTINF:-1 group-title="卫视",金鹰卡通DD5.1[1920*1080]
 http://opdf.top:8088/udp/239.81.0.148:4056
-#EXTINF:-1 group-title="卫视频道",金鹰纪实[1920*1080]
+#EXTINF:-1 group-title="卫视",金鹰纪实[1920*1080]
 http://opdf.top:8088/udp/239.81.0.91:4056
-#EXTINF:-1 group-title="卫视频道",BRTV KAKU少儿[785*576]
+#EXTINF:-1 group-title="卫视",BRTV KAKU少儿[785*576]
 http://opdf.top:8088/udp/239.81.0.62:4056
-#EXTINF:-1 group-title="卫视频道",KAKU少儿-AAC[1047*576]
+#EXTINF:-1 group-title="卫视",KAKU少儿-AAC[1047*576]
 http://opdf.top:8088/udp/239.81.1.64:4056
 #EXTINF:-1 group-title="央视标清",CCTV1综合[785*576]
 http://opdf.top:8088/udp/239.81.0.13:4056
@@ -327,215 +327,215 @@ http://opdf.top:8088/udp/239.81.0.28:4056
 http://opdf.top:8088/udp/239.81.0.65:4056
 #EXTINF:-1 group-title="国际标清",CNTV[720*576]
 http://opdf.top:8088/udp/239.81.0.84:4056
-#EXTINF:-1 group-title="卫视频道",BRIV北京卫视[785*576]
+#EXTINF:-1 group-title="卫视",BRIV北京卫视[785*576]
 http://opdf.top:8088/udp/239.81.0.30:4056
-#EXTINF:-1 group-title="卫视频道",三沙卫视[785*576]
+#EXTINF:-1 group-title="卫视",三沙卫视[785*576]
 http://opdf.top:8088/udp/239.81.0.242:4056
-#EXTINF:-1 group-title="卫视频道",东南卫视[768*576]
+#EXTINF:-1 group-title="卫视",东南卫视[768*576]
 http://opdf.top:8088/udp/239.81.0.59:4056
-#EXTINF:-1 group-title="卫视频道",中华美食-AAC[1047*576]
+#EXTINF:-1 group-title="卫视",中华美食-AAC[1047*576]
 http://opdf.top:8088/udp/239.81.1.76:4056
-#EXTINF:-1 group-title="卫视频道",中国天气[785*576]
+#EXTINF:-1 group-title="卫视",中国天气[785*576]
 http://opdf.top:8088/udp/239.81.0.63:4056
-#EXTINF:-1 group-title="卫视频道",乐游[1047*576]
+#EXTINF:-1 group-title="卫视",乐游[1047*576]
 http://opdf.top:8088/udp/239.81.0.78:4056
-#EXTINF:-1 group-title="卫视频道",云南卫视[785*576]
+#EXTINF:-1 group-title="卫视",云南卫视[785*576]
 http://opdf.top:8088/udp/239.81.0.45:4056
-#EXTINF:-1 group-title="卫视频道",京视剧场-AAC[1047*576]
+#EXTINF:-1 group-title="卫视",京视剧场-AAC[1047*576]
 http://opdf.top:8088/udp/239.81.1.72:4056
-#EXTINF:-1 group-title="卫视频道",优漫卡通-AAC[1047*576]
+#EXTINF:-1 group-title="卫视",优漫卡通-AAC[1047*576]
 http://opdf.top:8088/udp/239.81.1.67:4056
-#EXTINF:-1 group-title="卫视频道",健康之路[768*576]
+#EXTINF:-1 group-title="卫视",健康之路[768*576]
 http://opdf.top:8088/udp/239.81.0.253:4056
-#EXTINF:-1 group-title="卫视频道",先锋乒羽[768*576]
+#EXTINF:-1 group-title="卫视",先锋乒羽[768*576]
 http://opdf.top:8088/udp/239.81.0.236:4056
-#EXTINF:-1 group-title="卫视频道",兵团卫视-AAC[1047*576]
+#EXTINF:-1 group-title="卫视",兵团卫视-AAC[1047*576]
 http://opdf.top:8088/udp/239.81.1.54:4056
-#EXTINF:-1 group-title="卫视频道",兵团卫视[785*576]
+#EXTINF:-1 group-title="卫视",兵团卫视[785*576]
 http://opdf.top:8088/udp/239.81.0.213:4056
-#EXTINF:-1 group-title="卫视频道",内蒙古卫视-AAC[1047*576]
+#EXTINF:-1 group-title="卫视",内蒙古卫视-AAC[1047*576]
 http://opdf.top:8088/udp/239.81.1.48:4056
-#EXTINF:-1 group-title="卫视频道",内蒙古卫视[785*576]
+#EXTINF:-1 group-title="卫视",内蒙古卫视[785*576]
 http://opdf.top:8088/udp/239.81.0.54:4056
-#EXTINF:-1 group-title="卫视频道",农林卫视-AAC[1047*576]
+#EXTINF:-1 group-title="卫视",农林卫视-AAC[1047*576]
 http://opdf.top:8088/udp/239.81.1.58:4056
-#EXTINF:-1 group-title="卫视频道",动漫秀场[1047*576]
+#EXTINF:-1 group-title="卫视",动漫秀场[1047*576]
 http://opdf.top:8088/udp/239.81.0.68:4056
-#EXTINF:-1 group-title="卫视频道",北海新闻综合[768*576]
+#EXTINF:-1 group-title="卫视",北海新闻综合[768*576]
 http://opdf.top:8088/udp/239.81.0.136:4056
-#EXTINF:-1 group-title="卫视频道",华数无标[720*576]
+#EXTINF:-1 group-title="卫视",华数无标[720*576]
 http://opdf.top:8088/udp/239.81.0.82:4056
-#EXTINF:-1 group-title="卫视频道",华数无标[720*576]
+#EXTINF:-1 group-title="卫视",华数无标[720*576]
 http://opdf.top:8088/udp/239.81.0.83:4056
-#EXTINF:-1 group-title="卫视频道",华数无标[720*576]
+#EXTINF:-1 group-title="卫视",华数无标[720*576]
 http://opdf.top:8088/udp/239.81.0.85:4056
-#EXTINF:-1 group-title="卫视频道",华数电视剧[768*576]
+#EXTINF:-1 group-title="卫视",华数电视剧[768*576]
 http://opdf.top:8088/udp/239.81.0.15:4056
-#EXTINF:-1 group-title="卫视频道",南宁公共[768*576]
+#EXTINF:-1 group-title="卫视",南宁公共[768*576]
 http://opdf.top:8088/udp/239.81.0.129:4056
-#EXTINF:-1 group-title="卫视频道",南宁影视娱乐[768*576]
+#EXTINF:-1 group-title="卫视",南宁影视娱乐[768*576]
 http://opdf.top:8088/udp/239.81.0.128:4056
-#EXTINF:-1 group-title="卫视频道",南宁文旅生活[768*576]
+#EXTINF:-1 group-title="卫视",南宁文旅生活[768*576]
 http://opdf.top:8088/udp/239.81.0.127:4056
-#EXTINF:-1 group-title="卫视频道",南宁新闻综合[768*576]
+#EXTINF:-1 group-title="卫视",南宁新闻综合[768*576]
 http://opdf.top:8088/udp/239.81.0.126:4056
-#EXTINF:-1 group-title="卫视频道",厦门卫视-AAC[1047*576]
+#EXTINF:-1 group-title="卫视",厦门卫视-AAC[1047*576]
 http://opdf.top:8088/udp/239.81.1.53:4056
-#EXTINF:-1 group-title="卫视频道",发现之旅-AAC[1047*576]
+#EXTINF:-1 group-title="卫视",发现之旅-AAC[1047*576]
 http://opdf.top:8088/udp/239.81.1.74:4056
-#EXTINF:-1 group-title="卫视频道",吉林卫视[785*576]
+#EXTINF:-1 group-title="卫视",吉林卫视[785*576]
 http://opdf.top:8088/udp/239.81.0.58:4056
-#EXTINF:-1 group-title="卫视频道",哈哈炫动-AAC[1047*576]
+#EXTINF:-1 group-title="卫视",哈哈炫动-AAC[1047*576]
 http://opdf.top:8088/udp/239.81.1.66:4056
-#EXTINF:-1 group-title="卫视频道",嘉佳卡通-AAC[1047*576]
+#EXTINF:-1 group-title="卫视",嘉佳卡通-AAC[1047*576]
 http://opdf.top:8088/udp/239.81.1.68:4056
-#EXTINF:-1 group-title="卫视频道",嘉佳卡通[768*576]
+#EXTINF:-1 group-title="卫视",嘉佳卡通[768*576]
 http://opdf.top:8088/udp/239.81.0.64:4056
-#EXTINF:-1 group-title="卫视频道",四川卫视[785*576]
+#EXTINF:-1 group-title="卫视",四川卫视[785*576]
 http://opdf.top:8088/udp/239.81.0.43:4056
-#EXTINF:-1 group-title="卫视频道",夏门卫视[785*576]
+#EXTINF:-1 group-title="卫视",夏门卫视[785*576]
 http://opdf.top:8088/udp/239.81.0.212:4056
-#EXTINF:-1 group-title="卫视频道",大湾区卫视-AAC[1047*576]
+#EXTINF:-1 group-title="卫视",大湾区卫视-AAC[1047*576]
 http://opdf.top:8088/udp/239.81.1.55:4056
-#EXTINF:-1 group-title="卫视频道",大湾区卫视[785*576]
+#EXTINF:-1 group-title="卫视",大湾区卫视[785*576]
 http://opdf.top:8088/udp/239.81.0.29:4056
-#EXTINF:-1 group-title="卫视频道",大湾区卫视[785*576]
+#EXTINF:-1 group-title="卫视",大湾区卫视[785*576]
 http://opdf.top:8088/udp/239.81.0.32:4056
-#EXTINF:-1 group-title="卫视频道",天津卫视[785*576]
+#EXTINF:-1 group-title="卫视",天津卫视[785*576]
 http://opdf.top:8088/udp/239.81.0.50:4056
-#EXTINF:-1 group-title="卫视频道",宁夏卫视-AAC[1047*576]
+#EXTINF:-1 group-title="卫视",宁夏卫视-AAC[1047*576]
 http://opdf.top:8088/udp/239.81.1.51:4056
-#EXTINF:-1 group-title="卫视频道",宁夏卫视[785*576]
+#EXTINF:-1 group-title="卫视",宁夏卫视[785*576]
 http://opdf.top:8088/udp/239.81.0.60:4056
-#EXTINF:-1 group-title="卫视频道",安多卫视-AAC[1024*576]
+#EXTINF:-1 group-title="卫视",安多卫视-AAC[1024*576]
 http://opdf.top:8088/udp/239.81.1.59:4056
-#EXTINF:-1 group-title="卫视频道",安徽卫视[768*576]
+#EXTINF:-1 group-title="卫视",安徽卫视[768*576]
 http://opdf.top:8088/udp/239.81.0.37:4056
-#EXTINF:-1 group-title="卫视频道",家庭理财-AAC[1047*576]
+#EXTINF:-1 group-title="卫视",家庭理财-AAC[1047*576]
 http://opdf.top:8088/udp/239.81.1.71:4056
-#EXTINF:-1 group-title="卫视频道",山东卫视[768*576]
+#EXTINF:-1 group-title="卫视",山东卫视[768*576]
 http://opdf.top:8088/udp/239.81.0.39:4056
-#EXTINF:-1 group-title="卫视频道",山东教育卫视-AAC[1047*576]
+#EXTINF:-1 group-title="卫视",山东教育卫视-AAC[1047*576]
 http://opdf.top:8088/udp/239.81.1.52:4056
-#EXTINF:-1 group-title="卫视频道",山东教育卫视[785*576]
+#EXTINF:-1 group-title="卫视",山东教育卫视[785*576]
 http://opdf.top:8088/udp/239.81.0.93:4056
-#EXTINF:-1 group-title="卫视频道",山西卫视-AAC[1047*576]
+#EXTINF:-1 group-title="卫视",山西卫视-AAC[1047*576]
 http://opdf.top:8088/udp/239.81.1.46:4056
-#EXTINF:-1 group-title="卫视频道",山西卫视[785*576]
+#EXTINF:-1 group-title="卫视",山西卫视[785*576]
 http://opdf.top:8088/udp/239.81.0.49:4056
-#EXTINF:-1 group-title="卫视频道",崇左综合[768*576]
+#EXTINF:-1 group-title="卫视",崇左综合[768*576]
 http://opdf.top:8088/udp/239.81.0.171:4056
-#EXTINF:-1 group-title="卫视频道",广东卫视[785*576]
+#EXTINF:-1 group-title="卫视",广东卫视[785*576]
 http://opdf.top:8088/udp/239.81.0.36:4056
-#EXTINF:-1 group-title="卫视频道",广西卫视[785*576]
+#EXTINF:-1 group-title="卫视",广西卫视[785*576]
 http://opdf.top:8088/udp/239.81.0.2:4056
-#EXTINF:-1 group-title="卫视频道",广西国际[768*576]
+#EXTINF:-1 group-title="卫视",广西国际[768*576]
 http://opdf.top:8088/udp/239.81.0.8:4056
-#EXTINF:-1 group-title="卫视频道",广西影视[785*576]
+#EXTINF:-1 group-title="卫视",广西影视[785*576]
 http://opdf.top:8088/udp/239.81.0.7:4056
-#EXTINF:-1 group-title="卫视频道",广西新闻[785*576]
+#EXTINF:-1 group-title="卫视",广西新闻[785*576]
 http://opdf.top:8088/udp/239.81.0.5:4056
-#EXTINF:-1 group-title="卫视频道",广西移动[785*576]
+#EXTINF:-1 group-title="卫视",广西移动[785*576]
 http://opdf.top:8088/udp/239.81.0.10:4056
-#EXTINF:-1 group-title="卫视频道",广西综艺旅游[785*576]
+#EXTINF:-1 group-title="卫视",广西综艺旅游[785*576]
 http://opdf.top:8088/udp/239.81.0.3:4056
-#EXTINF:-1 group-title="卫视频道",广西都市[785*576]
+#EXTINF:-1 group-title="卫视",广西都市[785*576]
 http://opdf.top:8088/udp/239.81.0.4:4056
-#EXTINF:-1 group-title="卫视频道",康巴卫视-AAC[1047*576]
+#EXTINF:-1 group-title="卫视",康巴卫视-AAC[1047*576]
 http://opdf.top:8088/udp/239.81.1.56:4056
-#EXTINF:-1 group-title="卫视频道",延边卫视-AAC[1047*576]
+#EXTINF:-1 group-title="卫视",延边卫视-AAC[1047*576]
 http://opdf.top:8088/udp/239.81.1.57:4056
-#EXTINF:-1 group-title="卫视频道",弈坛春秋-AAC[1047*576]
+#EXTINF:-1 group-title="卫视",弈坛春秋-AAC[1047*576]
 http://opdf.top:8088/udp/239.81.1.73:4056
-#EXTINF:-1 group-title="卫视频道",新动漫[768*576]
+#EXTINF:-1 group-title="卫视",新动漫[768*576]
 http://opdf.top:8088/udp/239.81.0.235:4056
-#EXTINF:-1 group-title="卫视频道",新疆卫视-AAC[1047*576]
+#EXTINF:-1 group-title="卫视",新疆卫视-AAC[1047*576]
 http://opdf.top:8088/udp/239.81.1.43:4056
-#EXTINF:-1 group-title="卫视频道",新疆卫视[785*576]
+#EXTINF:-1 group-title="卫视",新疆卫视[785*576]
 http://opdf.top:8088/udp/239.81.0.46:4056
-#EXTINF:-1 group-title="卫视频道",桂林新闻综合[1024*576]
+#EXTINF:-1 group-title="卫视",桂林新闻综合[1024*576]
 http://opdf.top:8088/udp/239.81.0.135:4056
-#EXTINF:-1 group-title="卫视频道",柳州新闻综合[768*576]
+#EXTINF:-1 group-title="卫视",柳州新闻综合[768*576]
 http://opdf.top:8088/udp/239.81.0.134:4056
-#EXTINF:-1 group-title="卫视频道",梧州新闻综合[768*576]
+#EXTINF:-1 group-title="卫视",梧州新闻综合[768*576]
 http://opdf.top:8088/udp/239.81.0.244:4056
-#EXTINF:-1 group-title="卫视频道",贵港新闻综合[785*576]
+#EXTINF:-1 group-title="卫视",贵港新闻综合[785*576]
 http://opdf.top:8088/udp/239.81.0.169:4056
-#EXTINF:-1 group-title="卫视频道",无台标娱乐[768*576]
+#EXTINF:-1 group-title="卫视",无台标娱乐[768*576]
 http://opdf.top:8088/udp/239.81.0.17:4056
-#EXTINF:-1 group-title="卫视频道",无标华数[720*576]
+#EXTINF:-1 group-title="卫视",无标华数[720*576]
 http://opdf.top:8088/udp/239.81.0.67:4056
-#EXTINF:-1 group-title="卫视频道",无标法制[768*576]
+#EXTINF:-1 group-title="卫视",无标法制[768*576]
 http://opdf.top:8088/udp/239.81.0.20:4056
-#EXTINF:-1 group-title="卫视频道",来宾综合[768*576]
+#EXTINF:-1 group-title="卫视",来宾综合[768*576]
 http://opdf.top:8088/udp/239.81.0.170:4056
-#EXTINF:-1 group-title="卫视频道",江苏卫视[785*576]
+#EXTINF:-1 group-title="卫视",江苏卫视[785*576]
 http://opdf.top:8088/udp/239.81.0.34:4056
-#EXTINF:-1 group-title="卫视频道",江西卫视[785*576]
+#EXTINF:-1 group-title="卫视",江西卫视[785*576]
 http://opdf.top:8088/udp/239.81.0.38:4056
-#EXTINF:-1 group-title="卫视频道",河北卫视[785*576]
+#EXTINF:-1 group-title="卫视",河北卫视[785*576]
 http://opdf.top:8088/udp/239.81.0.51:4056
-#EXTINF:-1 group-title="卫视频道",河南卫视[785*576]
+#EXTINF:-1 group-title="卫视",河南卫视[785*576]
 http://opdf.top:8088/udp/239.81.0.44:4056
-#EXTINF:-1 group-title="卫视频道",河池新闻综合[768*576]
+#EXTINF:-1 group-title="卫视",河池新闻综合[768*576]
 http://opdf.top:8088/udp/239.81.0.167:4056
-#EXTINF:-1 group-title="卫视频道",法治天地[1047*576]
+#EXTINF:-1 group-title="卫视",法治天地[1047*576]
 http://opdf.top:8088/udp/239.81.0.79:4056
-#EXTINF:-1 group-title="卫视频道",浙江卫视[785*576]
+#EXTINF:-1 group-title="卫视",浙江卫视[785*576]
 http://opdf.top:8088/udp/239.81.0.31:4056
-#EXTINF:-1 group-title="卫视频道",海南卫视[785*576]
+#EXTINF:-1 group-title="卫视",海南卫视[785*576]
 http://opdf.top:8088/udp/239.81.0.48:4056
-#EXTINF:-1 group-title="卫视频道",深圳卫视[785*576]
+#EXTINF:-1 group-title="卫视",深圳卫视[785*576]
 http://opdf.top:8088/udp/239.81.0.57:4056
-#EXTINF:-1 group-title="卫视频道",游戏风云[1047*576]
+#EXTINF:-1 group-title="卫视",游戏风云[1047*576]
 http://opdf.top:8088/udp/239.81.0.72:4056
-#EXTINF:-1 group-title="卫视频道",湖北卫视[768*576]
+#EXTINF:-1 group-title="卫视",湖北卫视[768*576]
 http://opdf.top:8088/udp/239.81.0.41:4056
-#EXTINF:-1 group-title="卫视频道",湖南卫视[785*576]
+#EXTINF:-1 group-title="卫视",湖南卫视[785*576]
 http://opdf.top:8088/udp/239.81.0.40:4056
-#EXTINF:-1 group-title="卫视频道",玉林新闻综合[1024*576]
+#EXTINF:-1 group-title="卫视",玉林新闻综合[1024*576]
 http://opdf.top:8088/udp/239.81.0.138:4056
-#EXTINF:-1 group-title="卫视频道",甘肃卫视-AAC[1047*576]
+#EXTINF:-1 group-title="卫视",甘肃卫视-AAC[1047*576]
 http://opdf.top:8088/udp/239.81.1.37:4056
-#EXTINF:-1 group-title="卫视频道",生活时尚[1047*576]
+#EXTINF:-1 group-title="卫视",生活时尚[1047*576]
 http://opdf.top:8088/udp/239.81.0.75:4056
-#EXTINF:-1 group-title="卫视频道",百色综合[768*576]
+#EXTINF:-1 group-title="卫视",百色综合[768*576]
 http://opdf.top:8088/udp/239.81.0.149:4056
-#EXTINF:-1 group-title="卫视频道",置业频道-AAC[1047*576]
+#EXTINF:-1 group-title="卫视",置业频道-AAC[1047*576]
 rtp://239.81.1.77:4056
-#EXTINF:-1 group-title="卫视频道",老故事-AAC[1047*576]
+#EXTINF:-1 group-title="卫视",老故事-AAC[1047*576]
 http://opdf.top:8088/udp/239.81.1.75:4056
-#EXTINF:-1 group-title="卫视频道",自然传奇[768*576]
+#EXTINF:-1 group-title="卫视",自然传奇[768*576]
 http://opdf.top:8088/udp/239.81.0.18:4056
-#EXTINF:-1 group-title="卫视频道",西藏卫视-AAC[1047*576]
+#EXTINF:-1 group-title="卫视",西藏卫视-AAC[1047*576]
 http://opdf.top:8088/udp/239.81.1.49:4056
-#EXTINF:-1 group-title="卫视频道",西藏卫视[785*576]
+#EXTINF:-1 group-title="卫视",西藏卫视[785*576]
 http://opdf.top:8088/udp/239.81.0.55:4056
-#EXTINF:-1 group-title="卫视频道",贵州卫视[785*576]
+#EXTINF:-1 group-title="卫视",贵州卫视[785*576]
 http://opdf.top:8088/udp/239.81.0.56:4056
-#EXTINF:-1 group-title="卫视频道",贺州综合[768*576]
+#EXTINF:-1 group-title="卫视",贺州综合[768*576]
 http://opdf.top:8088/udp/239.81.0.137:4056
-#EXTINF:-1 group-title="卫视频道",辽宁卫视[785*576]
+#EXTINF:-1 group-title="卫视",辽宁卫视[785*576]
 http://opdf.top:8088/udp/239.81.0.35:4056
-#EXTINF:-1 group-title="卫视频道",都市剧场[1047*576]
+#EXTINF:-1 group-title="卫视",都市剧场[1047*576]
 http://opdf.top:8088/udp/239.81.0.81:4056
-#EXTINF:-1 group-title="卫视频道",重庆卫视[785*576]
+#EXTINF:-1 group-title="卫视",重庆卫视[785*576]
 http://opdf.top:8088/udp/239.81.0.47:4056
-#EXTINF:-1 group-title="卫视频道",金色学堂[1047*576]
+#EXTINF:-1 group-title="卫视",金色学堂[1047*576]
 http://opdf.top:8088/udp/239.81.0.80:4056
-#EXTINF:-1 group-title="卫视频道",金鹰卡通-AAC[1047*576]
+#EXTINF:-1 group-title="卫视",金鹰卡通-AAC[1047*576]
 http://opdf.top:8088/udp/239.81.1.65:4056
-#EXTINF:-1 group-title="卫视频道",金鹰卡通[785*576]
+#EXTINF:-1 group-title="卫视",金鹰卡通[785*576]
 http://opdf.top:8088/udp/239.81.0.61:4056
-#EXTINF:-1 group-title="卫视频道",陕西卫视-AAC[1047*576]
+#EXTINF:-1 group-title="卫视",陕西卫视-AAC[1047*576]
 http://opdf.top:8088/udp/239.81.1.40:4056
-#EXTINF:-1 group-title="卫视频道",陕西卫视[785*576]
+#EXTINF:-1 group-title="卫视",陕西卫视[785*576]
 http://opdf.top:8088/udp/239.81.0.89:4056
-#EXTINF:-1 group-title="卫视频道",青海卫视-AAC[1047*576]
+#EXTINF:-1 group-title="卫视",青海卫视-AAC[1047*576]
 http://opdf.top:8088/udp/239.81.1.47:4056
-#EXTINF:-1 group-title="卫视频道",青海卫视[785*576]
+#EXTINF:-1 group-title="卫视",青海卫视[785*576]
 http://opdf.top:8088/udp/239.81.0.53:4056
-#EXTINF:-1 group-title="卫视频道",黑龙江卫视[785*576]
+#EXTINF:-1 group-title="卫视",黑龙江卫视[785*576]
 http://opdf.top:8088/udp/239.81.0.33:4056
-#EXTINF:-1 group-title="卫视频道",钦州综合[768*576]
+#EXTINF:-1 group-title="卫视",钦州综合[768*576]
 http://opdf.top:8088/udp/239.81.0.165:4056
