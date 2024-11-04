@@ -3,7 +3,7 @@ rule = {
     host: 'https://cddys1.me',
     class_name: '电影&电视剧&综艺&动漫&纪录片',
     class_url: '1&2&3&4&3',
-    homeVod: 'div.module-item;div.module-item-pic a&&title;div.module-item-pic a&&href;img&&data-src;div.module-item-text&&Text',
+    homeVod: 'div.module-poster-item.module-item;div.module-poster-item-title&&Text;div.lazyload&&data-original;div.module-item-note&&Text;a&&href',
     url: '/vodshow/fyclass--------fypage---.html',
     categoryVod: 'div.module-item;div.module-item-pic a&&title;div.module-item-pic a&&href;img&&data-src;div.module-item-text&&Text',
     detailVod: {
@@ -20,6 +20,6 @@ rule = {
       request(url);|||
       playUrl = html.split('},"url":"')[1].split('"')[0];
     `,
-    searchUrl: '/vsearch/--.html?wd=**',
+    searchUrl: '/vodsearch/**----------fypage---.html',
     searchVod: 'div.module-item-pic;a&&title;a&&href;img&&data-src;',
   }
