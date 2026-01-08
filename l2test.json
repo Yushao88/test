@@ -5,7 +5,8 @@
       "webSite": "https://v.qq.com",
       "instance": "tencentVideo",
       "order": "A",
-      "api": "https://d.kstore.dev/download/9736/uzVideo/vod/js/qq.js",
+      "api": "https://raw.githubusercontent.com/Yushao88/test/refs/heads/main/qq.js",
       "type": 100
     }
+
 ]
