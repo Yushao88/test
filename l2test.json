@@ -1,0 +1,11 @@
+[
+    {
+      "name": "[官] ces视频",
+      "version": 3,
+      "webSite": "https://v.qq.com",
+      "instance": "tencentVideo",
+      "order": "A",
+      "api": "https://d.kstore.dev/download/9736/uzVideo/vod/js/qq.js",
+      "type": 100
+    }
+]
